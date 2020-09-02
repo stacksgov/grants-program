@@ -14,16 +14,17 @@ We will begin with a beta grants program to build momentum, test our process, an
 - **Wish list or Wildcard**. Ready to contribute but not sure were to start? We're crowdsourcing ideas from across our ecosystem that best serve our mission. Check out our wish list for ideas or create your own proposal for a project you believe will add value to the ecosystem and explain why.
 
 ## Grants Application
+Grants Proposals are created by and for the community, so the evaluation is purposefully open for feedback from the STX ecosystem. Sharing your ideas with peers is a great way to get input, feedback, and find collaborators. 
 
-The grants proposal process was designed with input from the community. Applications are a part of the conversation with the STX ecosystem to seek feedback, input and collaborators. Applicants may benefit from presenting their idea in a blog post, video demo, or forum discussion to get more input and feedback. We strongly encourage applicants to consider how to continue sharing proposal updates, progress, and final deliverables with the community over time. 
+Final decisions on funding are provided by the Grants Committee but evaluation on the criteria and the scope of the proposal is open to everyone for comment. Initially, the grants committee is comprised of members of the Stacks Foundation (Brittany, Jude and Ryan) and an independent consultant (Raffi Saphire, former lead of LivePeer Grants Program).
 
 **Evaluation Criteria**
 
-- Must further the mission of a user owned internet
-- Contributions must be open source or use a permissive license (where required)
-- Grantees must verify their ID and sign a contract to obtain funding, restrictions may apply to citizens of OFAC countries
-- Must be able to be completed within 4-8 weeks, and at or under $5,000 from a time commitment perspective. This will expand as we shift from beta to a scaled program at the end of 2020.
--  Grant applications should clearly outline the project's purpose, who benefits, how the project will serve the mission, a measurable outcome, relevant experience from the individual/team, risks, and links to community input, research, or supporting work relevant to your project. 
+- Grant applications should clearly outline the project's purpose, who benefits, how the project will serve the mission, a measurable outcome, relevant experience from the individual/team, risks, and links to community input, research, or supporting work relevant to your project.
+- Community feedback is strongly encouraged. Applicants may benefit by presenting their idea in a blog post, video demo, or forum discussion to get more input on their proposal from the community. It can also kickstart the path to sharing proposal progress and final deliverables with the community over time.
+- Contributions must be open source or use a permissive license (where required).
+- Must be able to be completed within 4-8 weeks, and at or under $5,000 from a time commitment perspective. This will expand as we shift from beta to a scaled program.
+- Grantees must verify their ID and sign a contract to obtain funding in USD, restrictions may apply to citizens of OFAC countries.
 
 
 
