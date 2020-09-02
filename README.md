@@ -26,6 +26,10 @@ The grants proposal process was designed with input from the community. Applicat
 - Grantees must verify their ID and sign a contract to obtain funding, restrictions may apply to citizens of OFAC countries
 - Must be able to be completed within 4-8 weeks, and at or under $5,000 from a time commitment perspective. This will expand as we shift from beta to a scaled program at the end of 2020.
 
+**Evaluation Criteria**
+
+
+
 ### How to Apply
 
 **Application Workflow**
@@ -34,7 +38,11 @@ The grants proposal process was designed with input from the community. Applicat
     1. [Submit a new proposal](https://github.com/stacksgov/Stacks-Grants/issues/new/choose). If you have an idea of something you're excited about, we want to help you make it happen! 
     2. [Respond to a wishlist proposal.](https://github.com/stacksgov/Stacks-Grants/issues) Check out the wishlist issues, and respond as a comment to the one you'd like to work on. 
 2. **Feedback**. Receive feedback from the Grants Committee within 7 days, if application incomplete or missing information, that is requested. We review updates batched every Tuesday at 2 PM EST, so keep that in mind if you want us to review your updated proposal within a week. 
-3. **Review.** Completed applications are reviewed by the Grants Committee during the weekly review on Tuesdays. Committee assesses if the application is : accepted, passed, or needs more information. Feedback, comments, and status updates are provided publicly in Github comments.
-4. **Contract.** Completed applications require a contract to proceed to funding status, delivery date, impact if funding is not delivered. 
-5. **Deliver.** Submit deliverables by the agreed upon time in within the Github thread, and tag the committee. If the grant is broken into milestones, we'll continue to update on this thread. 
-6. **Celebrate!** Payment will be delivered within 10 days of submittal.
+3. **Community**. Your proposal will be open to the community for feedback and comments as well. We encourage you to share your proposal in Discord, Telegram, the Forum, or to other parts of your community to solicit input from your peers.
+4. **Review.** Completed applications are reviewed by the Grants Committee during the weekly review on Tuesdays. Committee assesses if the application is : accepted, passed, or needs more information. Feedback, comments, and status updates are provided publicly in Github comments.
+5. **Contract.** Completed applications require a contract to finalize funding, it will include details on funding, delivery date, and impact if funding is not delivered. 
+6. **Deliver.** Submit deliverables by the agreed upon time in within the Github thread, and tag the committee. If the grant is broken into milestones, we'll continue to update on this thread. 
+7. **Celebrate!** Share your wins and your progress with the community. It's a great way to grow support of your work over time. We're all rooting for you! 
+
+
+**Applicant Resources**
