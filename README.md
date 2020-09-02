@@ -43,4 +43,8 @@ Final decisions on funding are provided by the Grants Committee but evaluation o
 7. **Celebrate!** Share your wins and your progress with the community. It's a great way to grow support of your work over time. We're all rooting for you! 
 
 
-**Applicant Resources**
+### **Applicant Resources**
+- Discuss your grant proposal with peers through the [#grants Discord channel](https://discord.gg/YGPBHt)
+- Share your proposal through [Telegram](https://t.me/BlockstackChat](https://t.me/BlockstackChat) or the [Forum](https://forum.blockstack.org/)
+- Grants Program Beta Foundation [blog post](stacks.org/news)
+- [Blank Grant Application Template](https://github.com/stacksgov/Stacks-Grants/commit/d877286b9c3c604ae89b89320e78e8293b0ab54d)
