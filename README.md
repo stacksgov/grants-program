@@ -14,6 +14,7 @@ We will begin with a beta grants program to build momentum, test our process, an
 - **Wish list or Wildcard**. Ready to contribute but not sure were to start? We're crowdsourcing ideas from across our ecosystem that best serve our mission. Check out our wish list for ideas or create your own proposal for a project you believe will add value to the ecosystem and explain why.
 
 ## Grants Application
+
 Grants Proposals are created by and for the community, so the evaluation is purposefully open for feedback from the STX ecosystem. Sharing your ideas with peers is a great way to get input, feedback, and find collaborators.
 
 Final decisions on funding are provided by the Grants Committee but evaluation on the criteria and the scope of the proposal is open to everyone for comment. Initially, the grants committee is comprised of members of the Stacks Foundation (Brittany, Jude and Ryan) and an independent consultant (Raffi Saphire, former lead of LivePeer Grants Program).
@@ -41,7 +42,8 @@ Final decisions on funding are provided by the Grants Committee but evaluation o
 7. **Celebrate!** Share your wins and your progress with the community. It's a great way to grow support of your work over time. We're all rooting for you!
 
 ### Applicant Resources
+
 - Discuss your grant proposal with peers through the [#grants Discord channel](https://discord.gg/YGPBHt)
 - Share your proposal through [Telegram](https://t.me/BlockstackChat) or the [Forum](https://forum.blockstack.org/)
-- Grants Program Beta Foundation [blog post](stacks.org/news)
+- Stacks Foundation [blog posts](https://stacks.org/news)
 - [Blank Grant Application Template](https://github.com/stacksgov/Stacks-Grants/blob/master/.github/ISSUE_TEMPLATE/grant-application.md)
