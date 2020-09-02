@@ -15,8 +15,6 @@ We will begin with a beta grants program to build momentum, test our process, an
 
 ## Grants Application
 
-Grant applications should clearly outline the project's purpose, who benefits, how the project will serve the mission, a measurable outcome, relevant experience from the individual/team, risks, and links to community input, research, or supporting work relevant to your project. 
-
 The grants proposal process was designed with input from the community. Applications are a part of the conversation with the STX ecosystem to seek feedback, input and collaborators. Applicants may benefit from presenting their idea in a blog post, video demo, or forum discussion to get more input and feedback. We strongly encourage applicants to consider how to continue sharing proposal updates, progress, and final deliverables with the community over time. 
 
 **Evaluation Criteria**
