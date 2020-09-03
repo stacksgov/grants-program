@@ -2,7 +2,7 @@
 
 The goal of Stacks Grants are to fund infrastructure development, community resources, tools, research, and education that serve our mission of a user owned internet, powered by the Stacks Blockchain.
 
-**Stacks Foundation Grant Program {Beta}**
+**Stacks Foundation Grant Program Beta**
 
 We will begin with a beta grants program to build momentum, test our process, and award USD grants up to $5k. The beta program will run through the launch of STX 2.0, at which point we have the opportunity to propose upgrades, including award grants in STXs, a larger review committee, and grants awarded in larger denominations.
 
@@ -45,5 +45,5 @@ Final decisions on funding are provided by the Grants Committee but evaluation o
 
 - Discuss your grant proposal with peers through the [#grants Discord channel](https://discord.gg/YGPBHt)
 - Share your proposal through [Telegram](https://t.me/BlockstackChat) or the [Forum](https://forum.blockstack.org/)
-- Stacks Foundation [blog posts](https://stacks.org/news)
-- [Blank Grant Application Template](https://github.com/stacksgov/Stacks-Grants/blob/master/.github/ISSUE_TEMPLATE/grant-application.md)
+- Grants Program Beta Foundation [blog post](https://stacks.org/stacks_grants_beta)
+- [Blank Grant Application Template](https://github.com/stacksgov/Stacks-Grants/commit/d877286b9c3c604ae89b89320e78e8293b0ab54d)
