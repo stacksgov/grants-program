@@ -26,6 +26,7 @@ Final decisions on funding are provided by the Grants Committee but evaluation o
 - Contributions must be open source or use a permissive license (where required).
 - Must be able to be completed within 4-8 weeks, and at or under $5,000 from a time commitment perspective. This will expand as we shift from beta to a scaled program.
 - Grantees must verify their ID and sign a contract to obtain funding in USD, restrictions may apply to citizens of OFAC countries.
+- Grants are generally forward looking. Work created in the past is not eligible for a grant.
 
 ### How to Apply
 
