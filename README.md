@@ -23,10 +23,16 @@ Final decisions on funding are provided by the Grants Committee but evaluation o
 
 - Grant applications should clearly outline the project's purpose, who benefits, how the project will serve the mission, a measurable outcome, relevant experience from the individual/team, risks, and links to community input, research, or supporting work relevant to your project.
 - Community feedback is strongly encouraged. Applicants may benefit by presenting their idea in a blog post, video demo, or forum discussion to get more input on their proposal from the community. It can also kickstart the path to sharing proposal progress and final deliverables with the community over time.
-- Contributions must be open source or use a permissive license (where required).
 - Must be able to be completed within 4-8 weeks, and at or under $5,000 from a time commitment perspective. This will expand as we shift from beta to a scaled program.
 - Grantees must verify their ID and sign a contract to obtain funding in USD, restrictions may apply to citizens of OFAC countries.
 - Grants are generally forward looking. Work created in the past is not eligible for a grant.
+
+**Development Criteria**
+
+- Projects must be open source or use a permissive license (where required).  This includes any software dependencies or third-party libraries.
+- Projects must be developed in a public online setting, such as Github, in order for the community to interact with the project as it is being worked on.
+- If the project will store user data, then it _must_ store the all of the user's data on the user's Gaia hub.  In addition, all user data must be stored in a well-documented format, so other programs may read and write it.
+- If the project will perform any non-trivial computation from user data, then it _must_ perform all computation on the user's device.  Generally speaking, this excludes project implementations that require server-side computing.
 
 ### How to Apply
 
