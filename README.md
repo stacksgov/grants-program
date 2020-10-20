@@ -23,7 +23,19 @@ Final decisions on funding are provided by the Grants Committee but evaluation o
 
 - Grant applications should clearly outline the project's purpose, who benefits, how the project will serve the mission, a measurable outcome, relevant experience from the individual/team, risks, and links to community input, research, or supporting work relevant to your project.
 - Community feedback is strongly encouraged. Applicants may benefit by presenting their idea in a blog post, video demo, or forum discussion to get more input on their proposal from the community. It can also kickstart the path to sharing proposal progress and final deliverables with the community over time.
-- Must be able to be completed within 4-8 weeks, and at or under $5,000 from a time commitment perspective. This will expand as we shift from beta to a scaled program.
+- Must be able to be completed within 4-8 weeks, and at or under $5,000 from a time commitment perspective. This will expand as we shift from beta to a scaled program. Please ensure milestones are included e.g. 
+    Milestone 1: $X
+        Design the UI/UX and review it 
+        Identify key technical problems to solve
+        Deliverable: Visuals shared with the community
+
+    Milestone 2: $Y
+        Implement Solution 1.0
+        Implement Solution 1.1
+        Deliverable: App shared with community for testing 
+
+    etc...
+
 - Grantees must verify their ID and sign a contract to obtain funding in USD, restrictions may apply to citizens of OFAC countries.
 - Grants are generally forward looking. Work created in the past is not eligible for a grant.
 
