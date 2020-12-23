@@ -1,6 +1,6 @@
 ## Grants Program
 
-The goal of Stacks Grants are to fund infrastructure development, community resources, tools, research, and education that serve our mission of a user owned internet, powered by the Stacks Blockchain.
+The goal of Stacks Grants is to fund infrastructure development, community resources, tools, research, and education that serve our mission of a user owned internet, powered by the Stacks Blockchain.
 
 **Stacks Foundation Grant Program Beta**
 
