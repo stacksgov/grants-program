@@ -6,9 +6,15 @@ labels: 'Grants Program Feedback'
 assignees: ''
 ---
 
-## Grants Program Feedback
+# Grants Program Feedback
+
+## General Feedback
 
 Please share your feedback with us, we would love to know more about your experience!
+
+## Feature Request
+
+What feature would you like to see? Please describe in detail.
 
 ## Technical Issues
 
