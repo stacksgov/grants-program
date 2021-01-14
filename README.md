@@ -8,7 +8,7 @@ To apply for a Stacks Grant, please visit [our application platform](https://gra
 
 ## Stacks Grants Feedback
 
-If you would like to submit feedback about the Stacks Grants application platform, please [create a new issue](https://github.com/stacksgov/Stacks-Grants/issues).
+If you would like to submit feedback about the Stacks Grants application platform, please [create a new issue](https://github.com/stacksgov/Stacks-Grants/issues/new/choose).
 
 ## Legacy Resource: Beta Program
 
