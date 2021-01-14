@@ -1,50 +1,15 @@
 ---
-name: Grant Application
-about: Submit a new grant idea
-title: Grant
+name: 'Grant Applications have moved!'
+about: 'We have migrated to grant.io and are no longer using GitHub for grants. Please see https://grants.stacks.org/ for more information or to create a proposal.'
+title: 'Grant - DO NOT USE'
 labels: ''
 assignees: ''
-
 ---
 
-*We prefer clear, concrete, and concise applications. If an application is incomplete or unclear, we will request an update to the application.*
+## Grant applications
 
-## Background
+**UPDATE:** We are now using [grant.io](https://grants.stacks.org) as our application platform.
 
-> What problems do you aim to solve? How does it serve the mission of a user owned internet?
+To learn more about the Stacks Foundation Grants Program, please visit [the Stacks Foundation website](https://stacks.org/grants).
 
-
-
-## Project Overview
-
-> What solution are you providing? Who will it serve?
-
-
-
-## Scope
-
-> What are the components or technical specs of the project? What will the final deliverable look like? How will you measure success?
-
-
-
-## Budget and Milestones
-
-> What grant amount are you seeking? How long will the project take in hours? If more than 20, please break down the project into milestones, with a clear output (e.g., low-fi mockup, MVP with two features) and include the estimated work hours for each milestone.
-
-
-
-## Team
-
-> Who is building this? What relevant experience do you bring to this project? Are there skills sets you are missing that you are seeking from the community?
-
-
-
-## Risks
-
-> What dependencies or obstacles do you anticipate? What contingency plans do you have in place?
-
-
-
-## Community and Supporting Materials
-
-> Do you have previous projects, code commits, or experiences that are relevant to this application? What community feedback or input have you received? How do you plan to share your plan to the community over time and as the final deliverable?
+To apply for a Stacks Grant, please visit [our application platform](https://grants.stacks.org), review the information, and propose a project!
