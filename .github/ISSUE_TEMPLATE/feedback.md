@@ -1,9 +1,11 @@
 ---
-name: 'Grants Program Feedback'
-about: 'Please use this issue template to give feedback about our application platform on grant.io - https://grants.stacks.org'
+name: Grants Program Feedback
+about: Please use this issue template to give feedback about our application platform
+  on grant.io - https://grants.stacks.org
 title: 'Feedback: '
-labels: 'Grants Program Feedback'
+labels: Grants Program Feedback
 assignees: ''
+
 ---
 
 # Grants Program Feedback
