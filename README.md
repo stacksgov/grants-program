@@ -4,13 +4,13 @@ The goal of Stacks Grants are to fund infrastructure development, community reso
 Stacks Foundation Grant Program {Alpha}
 
 ## Categories
-Tools and Services. Are you a web developer interested in building tools that make the protocol easier to interact with? Are you interested in increasing decentralization, data resiliency, and data portability? Can you build tools and services that make it easier for miners, developers, and tokenholders to interact with STX? Examples: a Rosetta API gateway, STX Stacking wallet, STX custody solutions, alternate explorer, custom mining tools / dashboards, chain visualization / analytics, etc.
+**Tools and Services.** Are you a web developer interested in building tools that make the protocol easier to interact with? Are you interested in increasing decentralization, data resiliency, and data portability? Can you build tools and services that make it easier for miners, developers, and tokenholders to interact with STX? Examples: a Rosetta API gateway, STX Stacking wallet, STX custody solutions, alternate explorer, custom mining tools / dashboards, chain visualization / analytics, etc.
 
-Education, Evangelism, and Collaboration. Are you experienced in communication, marketing, community or creative? Create resources that support or grow the community. Examples: videos, documentation, tutorials, workshops, working groups, etc.
+**Education, Evangelism, and Collaboration.** Are you experienced in communication, marketing, community or creative? Create resources that support or grow the community. Examples: videos, documentation, tutorials, workshops, working groups, etc.
 
-Core Protocol Development. Are you a blockchain developer or computer science researcher? **** Build core infrastructure that helps progress a user-owned internet. Examples: alternate implementations, contributions to stacks-blockchain reference implementation, etc.
+**Core Protocol Development.** Are you a blockchain developer or computer science researcher? **** Build core infrastructure that helps progress a user-owned internet. Examples: alternate implementations, contributions to stacks-blockchain reference implementation, etc.
 
-Wish list or Wildcard. Ready to contribute but not sure were to start? We're crowdsourcing ideas from across our ecosystem that best serve our mission. Check out our wish list for ideas or create your own proposal for a project you believe will add value to the ecosystem and explain why.
+**Wish list or Wildcard.** Ready to contribute but not sure were to start? We're crowdsourcing ideas from across our ecosystem that best serve our mission. Check out our wish list for ideas or create your own proposal for a project you believe will add value to the ecosystem and explain why.
 
 ## Grants Application
 Grant applications should clearly outline the project's purpose, who benefits, how the project will serve the mission, a measurable outcome, relevant experience from the individual/team, risks, and links to community input, research, or supporting work relevant to your project.
