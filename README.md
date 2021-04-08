@@ -57,7 +57,7 @@ Application Workflow
 
 ### **Applicant Resources**
 
-- Discuss your grant proposal with peers through the [#grants Discord channel](https://discord.gg/YGPBHt)
-- Share your proposal through [Telegram](https://t.me/BlockstackChat) or the [Forum](https://forum.blockstack.org/)
-- Grants Program Beta Foundation [blog post](stacks.org/news)
-- [Blank Grant Application Template](https://github.com/stacksgov/Stacks-Grants/commit/d877286b9c3c604ae89b89320e78e8293b0ab54d)
+- Discuss your grant proposal with peers through the [#grants Discord channel](https://discord.gg/zrvWsQC)
+- Share your proposal through [Telegram](https://t.me/BlockstackChat) or the [Forum](https://forum.stacks.org/)
+- Grants Program Beta Foundation [blog post](https://stacks.org/news)
+- [Blank Grant Application Template](https://github.com/stacksgov/Stacks-Grants/issues/new?assignees=&labels=&template=grant-application.md&title=Use+a+unique+name+that+describes+your+grant)
