@@ -1,18 +1,27 @@
-## Grants Program
+# Stacks Grants Program
+
 The goal of Stacks Grants are to fund infrastructure development, community resources, tools, research, and education that serve our mission of a user owned internet, powered by the Stacks Blockchain.
 
 Stacks Foundation Grant Program {Alpha}
 
 ## Categories
-**Tools and Services.** Are you a web developer interested in building tools that make the protocol easier to interact with? Are you interested in increasing decentralization, data resiliency, and data portability? Can you build tools and services that make it easier for miners, developers, and tokenholders to interact with STX? Examples: a Rosetta API gateway, STX Stacking wallet, STX custody solutions, alternate explorer, custom mining tools / dashboards, chain visualization / analytics, etc.
 
-**Education, Evangelism, and Collaboration.** Are you experienced in communication, marketing, community or creative? Create resources that support or grow the community. Examples: videos, documentation, tutorials, workshops, working groups, etc.
+**Tools and Services.** Are you a web developer interested in building tools that make the protocol easier to interact with? Are you interested in increasing decentralization, data resiliency, and data portability? Can you build tools and services that make it easier for miners, developers, and tokenholders to interact with STX?
 
-**Core Protocol Development.** Are you a blockchain developer or computer science researcher? **** Build core infrastructure that helps progress a user-owned internet. Examples: alternate implementations, contributions to stacks-blockchain reference implementation, etc.
+Examples: a Rosetta API gateway, STX Stacking wallet, STX custody solutions, alternate explorer, custom mining tools / dashboards, chain visualization / analytics, etc.
+
+**Education, Evangelism, and Collaboration.** Are you experienced in communication, marketing, community or creative? Create resources that support or grow the community.
+
+Examples: videos, documentation, tutorials, workshops, working groups, etc.
+
+**Core Protocol Development.** Are you a blockchain developer or computer science researcher? **** Build core infrastructure that helps progress a user-owned internet.
+
+Examples: alternate implementations, contributions to stacks-blockchain reference implementation, etc.
 
 **Wish list or Wildcard.** Ready to contribute but not sure were to start? We're crowdsourcing ideas from across our ecosystem that best serve our mission. Check out our wish list for ideas or create your own proposal for a project you believe will add value to the ecosystem and explain why.
 
-## Grants Application
+## Grant Applications
+
 Grant applications should clearly outline the project's purpose, who benefits, how the project will serve the mission, a measurable outcome, relevant experience from the individual/team, risks, and links to community input, research, or supporting work relevant to your project.
 
 The grants proposal process was designed with input from the community. Applications are a part of the conversation with the STX ecosystem to seek feedback, input and collaborators. Applicants may benefit from presenting their idea in a blog post, video demo, or forum discussion to get more input and feedback. We strongly encourage applicants to consider how to continue sharing proposal updates, progress, and final deliverables with the community over time.
@@ -25,6 +34,7 @@ The grants proposal process was designed with input from the community. Applicat
 - Grant applications should clearly outline the project's purpose, who benefits, how the project will serve the mission, a measurable outcome, relevant experience from the individual/team, risks, and links to community input, research, or supporting work relevant to your project.
 
 ## How to Apply
+
 Application Workflow
 
 **Submit.** Submit an issue. Product-based proposals must include specs in the submission.
@@ -46,7 +56,8 @@ Application Workflow
 **Celebrate!** Share your wins and your progress with the community. It's a great way to grow support of your work over time. We're all rooting for you!
 
 ### **Applicant Resources**
-- Discuss your grant proposal with peers through the [#grants Discord channel](https://discord.gg/YGPBHt)
-- Share your proposal through [Telegram](https://t.me/BlockstackChat](https://t.me/BlockstackChat) or the [Forum](https://forum.blockstack.org/)
-- Grants Program Beta Foundation [blog post](stacks.org/news)
-- [Blank Grant Application Template](https://github.com/stacksgov/Stacks-Grants/commit/d877286b9c3c604ae89b89320e78e8293b0ab54d)
+
+- Discuss your grant proposal with peers through the [#grants Discord channel](https://discord.gg/zrvWsQC)
+- Share your proposal through [Telegram](https://t.me/BlockstackChat) or the [Forum](https://forum.stacks.org/)
+- Grants Program Beta Foundation [blog post](https://stacks.org/news)
+- [Blank Grant Application Template](https://github.com/stacksgov/Stacks-Grants/issues/new?assignees=&labels=&template=grant-application.md&title=Use+a+unique+name+that+describes+your+grant)
