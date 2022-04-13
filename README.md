@@ -1,3 +1,11 @@
+# Grants Dashboard Announcement 
+
+The Stacks Foundation's new Grants Dashboard launches on Monday, April 18th! In anticipation of this launch, the GitHub Grant Issues has been closed so that we can migrate all grant information over to the Grants Dashboard. Please note, in order to log in to the Grants Dashboard you will need a Discord username. If you received a note recently via GitHub requesting your Discord username and have yet to provide it - OR - if you are not sure and you want to provided it anyway, please email ambassadors@stacks.org. Please use the subject line 'Discord' and in the body of the email provide us with your Discord username and your GitHub username so that we can connect the two accounts.  
+
+On Friday, April 15th the Grants Dashboard will be demo'd at 9am EST at the end of the Community Call. Links to the Community Call Zoom meeting will be provided on the Stacks Discord server later this week. Lastly, not 1, not 2, not 3, but 4 blog posts on the Grants Program will be coming out later this week as well. If you have any questions, comments, or concerns about this transition please drop them in the Grants channel on the Stacks Discord server or email ambassadors@stacks.org.  
+
+Thanks!
+
 # Stacks Grants Program
 
 The goal of Stacks Grants are to fund infrastructure development, community resources, tools, research, and education that serve our mission of a user owned internet, powered by the Stacks Blockchain.
