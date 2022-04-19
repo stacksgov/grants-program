@@ -1,3 +1,12 @@
+---
+name: Grant Application
+about: Do not submit
+title: Do not submit
+labels: ''
+assignees: ''
+
+---
+
 # "PLEASE NOTE: THE STACKS FOUNDATION GITHUB GRANT ISSUES ARE FOR ARCHIVE PURPOSES ONLY
 
 All new grant application should be submitted via www.stacks.org/grants.
