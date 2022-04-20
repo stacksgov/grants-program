@@ -1,4 +1,4 @@
-# Grants Dashboard Announcement 
+# Stacks Grants Program Announcement 
 
 Hello and thank you for your interest in the Stacks Foundation Grants Program!
 
