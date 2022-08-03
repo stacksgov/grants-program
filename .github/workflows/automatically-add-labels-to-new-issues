@@ -1,5 +1,4 @@
 name: issue-automation
-
 on:
   issues:
     types: [opened]
