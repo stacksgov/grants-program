@@ -1,0 +1,14 @@
+name: "Set Issue Label and Assignee"
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Naturalclar/issue-action@v2.0.2
+        with:
+          title-or-body: "body"
+          parameters: '[ {"keywords": ["Direct Application"], "labels": ["Direct Application"]}, {"keywords": ["Wishlist Submission"], "labels": ["Wishlist Submission"]}, {"keywords": ["Wishlist Request"], "labels": ["Wishlist Request"]}, {"keywords": ["Open Source Starter"], "labels": ["Open Source Starter"]}, {"keywords": ["Open Source Builder"], "labels": ["Open Source Builder"]}, {"keywords": ["Community Builder"], "labels": ["Community Builder"]}, {"keywords": ["Education"], "labels": ["Education"]}, {"keywords": ["Events"], "labels": ["Events"]}, {"keywords": ["Chapter (by Region)"], "labels": ["Chapter (by Region)"]}, {"keywords": ["ALEX (DeFi)"], "labels": ["ALEX (DeFi)"]}, {"keywords": ["Stacks Protocol"], "labels": ["Stacks Protocol"]}, {"keywords": ["Stacks Interface"], "labels": ["Stacks Interface"]}, {"keywords": ["Stacks dApps & Clarity"], "labels": ["Stacks dApps & Clarity"]}, {"keywords": ["Stacks Education & Community"], "labels": ["Stacks Education & Community"]}, {"keywords": ["Stacks Developer Experience"], "labels": ["Stacks Developer Experience"]}, {"keywords": ["Cross-Chain & Off-Chain"], "labels": ["Cross-Chain & Off-Chain"]}, {"keywords": ["Bitcoin Utility"], "labels": ["Bitcoin Utility"]}]'
+          github-token: "${{ secrets.GH_TOKEN }}"
