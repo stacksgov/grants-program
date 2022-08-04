@@ -2,7 +2,7 @@
 
 ### Payment Quantity, Milestone Quantity, & Payment Sizing
 
-| **PROJECT BUDGET**                                 | **NUMBER OF PAYMENTS** | **NUMBER OF MILESTONES** | **% OF BUDGET PER PAYMENT** |
+| **GRANT BUDGET**                                 | **NUMBER OF PAYMENTS** | **NUMBER OF MILESTONES** | **% OF BUDGET PER PAYMENT** |
 | :------------------------------------------------- | :--------------------: | :----------------------: | --------------------------: |
 | $0 to $9,999                                       |           2            |            0             |                         50% |
 | $10k to $24,999                                    |           3            |            1             |                       33.3% |
@@ -16,7 +16,7 @@
 
 ### Payment Notes
 
-1. Please note that while the total project budget is requested for in U.S. Dollars (USD) all payments are made in Stacks (STX).
+1. Please note that while the total grant budget is requested for in U.S. Dollars (USD) all payments are made in Stacks (STX).
 2. The quantity of STX disbursed with each payment is calculated using a 7-day trailing average from the time each payment is approved. Quantities can be confirmed [here](link)
-3. All payments are disbursed at the successful **conclusion** of each project phase, as outlined [here](link).
-4. All payments will be disbursed within 20 days of each successfully completed project phase.
+3. All payments are disbursed at the successful **conclusion** of each grant phase, as outlined [here](link).
+4. All payments will be disbursed within 20 days of each successfully completed grant phase.

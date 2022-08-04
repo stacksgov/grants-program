@@ -8,6 +8,37 @@
 
 </br>
 
+- [Introduction](#introduction)
+  - [Funding Streams & Project Types](#funding-streams--project-types)
+- [Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process)
+  - [Project Phases & Associated Payments](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#project-phases--associated-payments)
+    - [A. Application Review Phase](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#a-application-review-phase)
+    - [B. Onboarding Phase](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#b-onboarding-phase)
+    - [C. Milestone Deliverable Phase](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#c-milestone-deliverable-phase)
+    - [D. Final Deliverable Phase](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#d-final-deliverable-phase)
+  - [Application Review Phase Schedule](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#application-review-phase-schedule)
+  - [Payments](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Payments)
+    - [Payment Quantity, Milestone Quantity, & Payment Sizing](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Payments#payment-quantity-milestone-quantity--payment-sizing)
+    - [Payment Notes](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Payments#payment-notes)
+- [Project Application Guidelines](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project--project-application-guidelines)
+  - [Project Requirements](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project-requirements)
+  - [Project Application Expectations](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project-application-expectations)
+  - [Project Application Suggestions](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project-application-suggestions)
+  - [Project Lead Responsiblities](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project-lead-responsiblities)
+- [Funding Stream Details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#funding-stream-details)
+  - [Developer Grants](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/grant-types)
+  - [Community Grants](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#community-grants)
+  - [Wishlist Grants](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#wishlist-grants)
+  - [Advanced Support](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#advanced-support)
+  - [Ecosystem Partner Grants](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#ecosystem-partner-grants)
+  - [Affiliated Organizations](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#affiliated-organizations)
+- [Frequently Asked Questions](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Frequently-Asked-Questions)
+- [Additional Community Resources](#additional-community -resources)
+  - [Stacks Project Launchpad](#Stacks-Grant-Launchpad)
+  - [Stacks Community](#stacks-community)
+
+</br>
+
 ## Introduction
 
 As part of our commitment to promoting a user-owned internet, The Stacks Foundation provides support for a comprehensive set of project types through a range of Funding Streams focused on funding software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf). Anyone is welcome to submit a project application. Grants funded through our programs are broad in scope, but our focus lies on strong **technical** projects that _add immediate and widespread value_ to the Stacks ecosystem. Projects are supported through grants, residencies, and other means of funding. Each Project Type belongs to a specific Funding Streams.

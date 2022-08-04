@@ -9,7 +9,7 @@
 
 ## Introduction
 
-As part of our commitment to promoting a user-owned internet, The Stacks Foundation provides support for a comprehensive set of project types through a range of Funding Streams focused on funding software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf). Anyone is welcome to submit a project application. Projects funded through our programs are broad in scope, but our focus lies on strong **technical** projects that _add immediate and widespread value_ to the Stacks ecosystem. Projects are supported through grants, residencies, and other means of funding. Each Project Type belongs to a specific Funding Streams.
+As part of our commitment to promoting a user-owned internet, The Stacks Foundation provides support for a comprehensive set of grant types through a range of Funding Streams focused on funding software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf). Anyone is welcome to submit a grant application. Projects funded through our programs are broad in scope, but our focus lies on strong **technical** grants that _add immediate and widespread value_ to the Stacks ecosystem. Projects are supported through grants, residencies, and other means of funding. Each Project Type belongs to a specific Funding Streams.
 
 </br>
 
@@ -48,9 +48,9 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 <img src="https://github.com/stacksgov/Stacks-Project-Launchpad/raw/master/docs/assets/images/stacks-launchpad.png?s=50" width="250">
 
 - [Discussion Forums](https://github.com/stacksgov/Stacks-Project-Launchpad/discussions)
-- [Grants Kanban Board](https://github.com/stacksgov/Stacks-Project-Launchpad/projects/)
+- [Grants Kanban Board](https://github.com/stacksgov/Stacks-Project-Launchpad/grants/)
 - [STX Converter](https://grants.stacks.org/stacks-payment-converter)
-- [Project  Data Exporter](https://grants-dashboard.vercel.app/project-data-exporter)
+- [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter)
 
 </br>
 
