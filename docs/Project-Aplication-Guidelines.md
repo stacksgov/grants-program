@@ -1,6 +1,6 @@
 # Project Application Guidelines <!-- omit in toc -->
 
-- [Project & Project Application Guidelines](#project--project-application-guidelines)
+- [Project & Project Application Guidelines](##project--project-application-guidelines)
   - [Project Requirements](#project-requirements)
   - [Project Application Expectations](#project-application-expectations)
   - [Project Application Suggestions](#project-application-suggestions)
