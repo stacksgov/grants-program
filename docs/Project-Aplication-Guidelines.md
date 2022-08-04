@@ -1,10 +1,10 @@
 # Project Application Guidelines <!-- omit in toc -->
 
-- [Project & Project Application Guidelines](##project--project-application-guidelines)
+- [Project & Project Application Guidelines](#project--project-application-guidelines)
   - [Project Requirements](#project-requirements)
   - [Project Application Expectations](#project-application-expectations)
   - [Project Application Suggestions](#project-application-suggestions)
-- [Project Lead Responsiblities](#project-lead-responsiblities)
+- [Project Lead Responsibilities](#project-lead-responsiblities)
 
 ### Project Requirements
 
@@ -16,7 +16,7 @@ Additionally, it must fulfill the following requirements:
 
 In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](docs/milestone-deliverables-guidelines.md). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product.
 
-Finally, we take licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery **will lead to immediate termination**. Please reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
+Finally, we take licensing and the right of all teams in and outside the ecosystem to be recognized for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery **will lead to immediate termination**. Please reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
 
 ### Project Application Expectations
 
@@ -34,7 +34,7 @@ Things we encourage:
 
 - **DO** : Educate yourself on the process. Before submitting your application:
   - Read this document in its entirety.
-  - Study project applications with a similar mission in the Program Applications Github repo.
+  - Study project applications with a similar mission in the Program Applications GitHub repo.
   - Build a relationship with the Stacks community on the Stacks Discord server.
 - **DO** : Focus on new & novel, open-source ideas that the Stacks community has a clear demand for, prove there is demand, and prove you can measure how your solution will aid that demand.
 - **DO** : Start small and build a relationship. Don’t over ask. We encourage all builders new to the community to first start with a small project with a modest budget.
@@ -48,16 +48,16 @@ Before submitting your application, ask yourself the following questions:
 
 - **DOES YOUR PROJECT** : Advance the mission of a more user-owned internet?
 - **DOES YOUR PROJECT** : Accelerate a broader adoption of Stacks technology?
-- **DOES YOUR PROJECT** : Unlock immidiate and widespread value for the Stacks community?
+- **DOES YOUR PROJECT** : Unlock immediate and widespread value for the Stacks community?
 - **DOES YOUR PROJECT** : Yield new & novel: code, technology, and/or culture on Stacks?
 - **DOES YOUR PROJECT** : Have a crystal-clear scope, objective, and audience?
-- **DOES YOUR PROJECT** : Have a crystal-clear and measureable (and verifiable) definition of success?
+- **DOES YOUR PROJECT** : Have a crystal-clear and measurable (and verifiable) definition of success?
 - **DOES YOUR PROJECT** : Have any potential risks? If so, have you identified them and helped us understand how you plan to overcome those risks?
   - Risks could be related to team, security, technological dependencies, and/or market readiness.
 
 </br>
 
-## Project Lead Responsiblities
+## Project Lead Responsibilities
 
 ---
 
