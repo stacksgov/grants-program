@@ -96,7 +96,7 @@ The Residance program aims to create opportunities for leaders and teams to cont
 </br>
 
 ## ALEX Lab Foundation Grant
-ALEX guides those interested in building on ALEX to apply for Stacks foundation grant.</br>
+ALEX guides those interested in building on ALEX to apply for Stacks Foundation grant.</br>
 [Coming Soon]
 <!-- - The applicant will duly complete the grant application, which will be assessed by Stacks foundation.
  - The applicant will submit the application to ALEX, who will assess and determine own grant, subject to the application’s acceptance by Stacks foundation.

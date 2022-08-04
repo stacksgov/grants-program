@@ -1,6 +1,12 @@
-# Grant Phases & Associated Payments <!-- omit in toc -->
-
+# Grant Phases & Associated Payments
+- [Grant Phases & Associated Payments](#grant-phases--associated-payments)
+  - [A. Application Review Phase](#a-application-review-phase)
+  - [B. Onboarding Phase](#b-onboarding-phase)
+  - [C. Milestone Deliverable Phase](#c-milestone-deliverable-phase)
+  - [D. Final Deliverable Phase](#d-final-deliverable-phase)
 - [Application Review Phase Schedule](#application-review-phase-schedule)
+  - [Grants under $25k](#grants-under-25k)
+  - [Grants over $25k](#grants-over-25k)
   - [Payments](#payments)
     - [Payment Quantity, Milestone Quantity, & Payment Sizing](#payment-quantity-milestone-quantity--payment-sizing)
     - [Payment Notes](#payment-notes)
@@ -12,7 +18,7 @@
 The Application Review Phase consists of the following steps:
 
 - Before submitting an application read this document in its entirety, study grant applications with a similar mission in the Program Applications Github repo, and build a relationship with the Stacks community on the Stacks Discord server.
-- Submit an application via the [Stacks Foundation Grants Launchpad](https://grants.stacks.org/).
+- Submit an application via the [Stacks Foundation Grant Launchpad](https://grants.stacks.org/).
   - _The Grant Launchpad creates a Github issue for your grant application._
   - _After creating your application all interaction, revisions, updates occur on Github._
 - Receive informal feedback received from the community on your application via comments on your Github issue.
@@ -78,8 +84,11 @@ Please note:
 
 <br/>
 
-_Applications for Grants **under $25k** take between 4-7 weeks to process._
+---
+## Grants under $25k
+- Take between 4-7 weeks to process.
 <br/>
+
 | **<$25k Groups** | **A** Date | **B** Date | **C** Date | **D** Date |
 | :--: | :--:| :--:| :--:| :--:|
 | **Q3-A** | n/a | n/a | n/a | n/a
@@ -88,15 +97,15 @@ _Applications for Grants **under $25k** take between 4-7 weeks to process._
 | **Q4-A** | 9/11/2022 | 10/15/2022 | 10/16/2022 | 10/28/2022
 | **Q4-B** | 10/16/2022 | 11/12/2022 | 11/13/2022 | 11/25/2022
 | **Q4-C** | 11/13/2022 | 12/10/2022 | 12/11/2022 | 12/23/2022
-|
 
-<br/>
+</br>
 
-[insert image]
+## Grants over $25k
+- Take between 6-9 weeks to process.
 
-<br/>
 
-_Applications for Grants **over $25k** take between 6-9 weeks to process._
+
+_Applications for Grant **over $25k** take between 6-9 weeks to process._
 
 | **>$25k Groups** | **A** Date | **B** Date | **C** Date | **D** Date |
 | :--------------: | :--------: | :--------: | :--------: | :--------: |
@@ -105,7 +114,7 @@ _Applications for Grants **over $25k** take between 6-9 weeks to process._
 |     **Q4-A**     | 9/11/2022  | 10/29/2022 | 10/30/2022 | 11/11/2022 |
 |     **Q4-B**     | 10/30/2022 | 12/10/2022 | 12/11/2022 | 12/23/2022 |
 
-|
+
 
 </br>
 
@@ -115,8 +124,8 @@ _Applications for Grants **over $25k** take between 6-9 weeks to process._
 
 ### Payment Quantity, Milestone Quantity, & Payment Sizing
 
-| **grant BUDGET**                                 | **NUMBER OF PAYMENTS** | **NUMBER OF MILESTONES** | **% OF BUDGET PER PAYMENT** |
-| :------------------------------------------------- | :--------------------: | :----------------------: | --------------------------: |
+| **GRANT BUDGET** | **NUMBER OF PAYMENTS** | **NUMBER OF MILESTONES** | **% OF BUDGET PER PAYMENT** |
+| :-- | :--:| :--:| --:
 | $0 to $9,999                                       |           2            |            0             |                         50% |
 | $10k to $24,999                                    |           3            |            1             |                       33.3% |
 | $25k to $59,999                                    |           4            |            2             |                         25% |
@@ -130,16 +139,18 @@ _Applications for Grants **over $25k** take between 6-9 weeks to process._
 ### Payment Notes
 
 1. Please note that while the total grant budget is requested for in U.S. Dollars (USD) all payments are made in Stacks (STX).
-2. The quantity of STX disbursed with each payment is calculated using a 7-day trailing average from the time each payment is approved. Quantities can be confirmed [here](link)
-3. All payments are disbursed at the successful **conclusion** of each grant phase, as outlined [here](link).
+2. The quantity of STX disbursed with each payment is calculated using a 7-day trailing average from the time each payment is approved. Quantities can be confirmed [here](https://grants.stacks.org/stacks-payment-converter)
+3. All payments are disbursed at the successful **conclusion** of each grant phase, as outlined [here](#d-final-deliverable-phase).
 4. All payments will be disbursed within 20 days of each successfully completed grant phase.
 
 </br>
 
-> If you have questions regarding the Process please ask on the [Discussion Board](https://github.com/stacksgov/Stacks-grant-Launchpad/discussions).
+> If you have questions regarding the Process please ask on the [Discussion Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions).
 >
-> If you are having a difficult time visualizing the Process we encourage you to visit the [Grants Kanban Board](#grants-kanban-board).
+> If you are having a difficult time visualizing the Process we encourage you to visit the [Grant Kanban Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/projects?type=classic).
 >
 > If you have questions about a specific grant idea, submit an application. This is the best way to get feedback.
 >
 > If you feel you require a 1-on-1 meeting to discuss your grant idea, you must first submit an application and request a meeting in the comment section below your grant application GitHub issue. These requests will be accepted on an incredibly rare basis.
+
+Continue to [Grant Application Guidelines](Grant-Aplication-Guidelines)
