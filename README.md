@@ -1,7 +1,7 @@
 # Stacks Foundation Grants Launchpad<!-- omit in toc -->
 
 <p align="center">
-  <img src="/docs/assets/images/grants_program_header.png" style="width:1300px";>
+  <img src="./docs/assets/images/grants_program_header.png" style="width:1300px";>
 </p>
 
 ---
