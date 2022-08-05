@@ -54,7 +54,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-### Stacks Community
+### Stacks Community Resources
 
 </br>
 
