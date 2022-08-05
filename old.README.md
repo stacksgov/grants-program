@@ -1,10 +1,43 @@
 # Stacks Foundation Grants Launchpad<!-- omit in toc -->
 
 <p align="center">
-  <img src="./docs/assets/images/grant_program_header.png" style="width:1300px";>
+  <img src="/docs/assets/images/grants_program_header.png" style="width:1300px";>
 </p>
 
 ---
+
+</br>
+
+- [Introduction](#introduction)
+  - [Funding Streams & Project Types](#funding-streams--project-types)
+- [Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process)
+  - [Project Phases & Associated Payments](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#project-phases--associated-payments)
+    - [A. Application Review Phase](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#a-application-review-phase)
+    - [B. Onboarding Phase](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#b-onboarding-phase)
+    - [C. Milestone Deliverable Phase](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#c-milestone-deliverable-phase)
+    - [D. Final Deliverable Phase](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#d-final-deliverable-phase)
+  - [Application Review Phase Schedule](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#application-review-phase-schedule)
+  - [Payments](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Payments)
+    - [Payment Quantity, Milestone Quantity, & Payment Sizing](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Payments#payment-quantity-milestone-quantity--payment-sizing)
+    - [Payment Notes](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Payments#payment-notes)
+- [Project Application Guidelines](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project--project-application-guidelines)
+  - [Project Requirements](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project-requirements)
+  - [Project Application Expectations](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project-application-expectations)
+  - [Project Application Suggestions](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project-application-suggestions)
+  - [Project Lead Responsiblities](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Project-Aplication-Guidelines#project-lead-responsiblities)
+- [Funding Stream Details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#funding-stream-details)
+  - [Developer Grants](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/grant-types)
+  - [Community Grants](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#community-grants)
+  - [Wishlist Grants](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#wishlist-grants)
+  - [Advanced Support](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#advanced-support)
+  - [Ecosystem Partner Grants](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#ecosystem-partner-grants)
+  - [Affiliated Organizations](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#affiliated-organizations)
+- [Frequently Asked Questions](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Frequently-Asked-Questions)
+- [Additional Community Resources](#additional-community -resources)
+  - [Stacks Project Launchpad](#Stacks-Grant-Launchpad)
+  - [Stacks Community](#stacks-community)
+
+</br>
 
 ## Introduction
 
@@ -54,7 +87,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-### Stacks Community Resources
+### Stacks Community
 
 </br>
 
