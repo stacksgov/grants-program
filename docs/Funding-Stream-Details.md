@@ -134,3 +134,7 @@ https://www.okcoin.com/bitcoinodyssey
 ## Clarity Universe
 Clarity Universe is the hub for all things related to learning Clarity, the most expressive and secure language for writing smart contracts secured by Bitcoin.</br> Find courses, key resources, and job opportunities.</br>
 https://clarity-lang.org/universe
+
+</br>
+
+Continue to [Frequently Asked Questsions](Frequently-Asked-Questsions)

@@ -22,6 +22,4 @@
   - [Ecosystem Partner Grants](Funding-Stream-Details#ecosystem-partner-grants)
   - [Affiliated Organizations](Funding-Stream-Details#affiliated-organizations)
 - [Frequently Asked Questions](Frequently-Asked-Questions)
-- [Additional Resources](#additional-resources)
-  - [Stacks Grant Launchpad](#stacks-grant-launchpad)
-  - [Stacks Community Resources](#stacks-community-resouces)
+- [Additional Resources](Home#additional-resources)
