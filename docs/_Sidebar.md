@@ -1,5 +1,4 @@
 - [Introduction](#introduction)
-  - [Funding Streams & Project Types](#funding-streams--project-types)
 - [Process](Process)
   - [Project Phases & Associated Payments](Process#project-phases--associated-payments)
     - [A. Application Review Phase](Process#a-application-review-phase)

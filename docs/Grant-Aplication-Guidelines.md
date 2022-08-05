@@ -1,4 +1,4 @@
-# Grant Application Guidelines<!-- omit in toc -->
+
 - [Grant Requirements](#grant-requirements)
   - [Grant Application Expectations](#grant-application-expectations)
   - [Grant Application Suggestions](#grant-application-suggestions)

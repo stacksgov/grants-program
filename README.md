@@ -12,33 +12,6 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-## Funding Streams & Project Types
-
-| FUNDING STREAMS              | PROJECT TYPE                        |                                                                                                                     DETAILS |
-| ---------------------------- | :---------------------------------- | --------------------------------------------------------------------------------------------------------------------------: |
-| **Developer Grants**         |                                     |
-|                              | Open Source Starter Grant           |           [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#open-source-starter-grant) |
-|                              | Open Source Builder Grant           |           [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#open-source-builder-grant) |
-| **Community Grants**         |                                     |                                                                                                                             |
-|                              | Stacks Community Builder Grant      |      [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#stacks-community-builder-grant) |
-|                              | Stacks Education Grant              |              [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#stacks-education-grant) |
-|                              | Stacks Event Grant                  |                  [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#stacks-event-grant) |
-|                              | Stacks Chapter Grant (by Region)    |      [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#stacks-chapter-grant-by-region) |
-| **Wishlist Grants**          |                                     |                                                                                                                             |
-|                              | Wishlist Grants                     |                     [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#wishlist-grants) |
-| **Advanced Support**         |                                     |                                                                                                                             |
-|                              | Stacks Foundation Resident Program  |  [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#stacks-foundation-resident-program) |
-|                              | Stacks Foundation Direct Investment | [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#stacks-foundation-direct-investment) |
-| **Ecosystem Partner Grants** |                                     |                                                                                                                             |
-|                              | ALEX (DeFi) Grant                   |                     [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#alex-defi-grant) |
-| **Affiliated Organizations** |                                     |                                                                                                                             |
-|                              | Stacks Web3 Startup Lab             |             [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#stacks-web3-startup-lab) |
-|                              | Stacks Accelerator                  |                  [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#stacks-accelerator) |
-|                              | The Mintery                  |                  [details](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Funding-Stream-Details#the-mintery) |
-|                              |                                    | 
-
-</br>
-
 <b>Visit the [Grants Process Wiki Page](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/process) for more information towards applying for a grant</b>
 
 </br>
