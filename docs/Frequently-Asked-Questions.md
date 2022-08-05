@@ -305,3 +305,6 @@ Once your grant is complete, you are welcome to submit a follow-up grant applica
 You may apply for a new grant for a separate project immediately upon completion of your last grant. If the follow-up grant is to continue building on the initial project, we usually like to see feedback from the community in your follow-up application.
 
 </br>
+
+
+Visit the [Discussion Section](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions) for any additional help.
