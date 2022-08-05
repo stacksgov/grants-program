@@ -12,19 +12,19 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-<b>Visit the [Grants Process Wiki Page](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/process) for more information towards applying for a grant
-</b>
+<b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for more information towards understanding the Grants Program</b>
 
 </br>
 
-## Additional Community Resources
+## Additional Resources
 
-<img src="./docs/assets/images/stacks-launchpad.png?s=50" width="250">
+<img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-launchpad.png?s=50" width="250">
 
 - [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
-- [Grants Kanban Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/projects?type=classic)
-- [STX Converter](https://grants.stacks.org/stacks-payment-converter)
-- [Grant Data Exporter](https://grants.stacks.org/project-data-exporter)
+- [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
+- [Grants Application Dashboard](https://grants.stacks.org)
+  - [STX Converter](https://grants.stacks.org/stacks-payment-converter)
+  - [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter)
 
 </br>
 
