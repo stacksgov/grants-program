@@ -1,4 +1,4 @@
-# Stacks Foundation Grants Launchpad<!-- omit in toc -->
+# Stacks Foundation Grant Launchpad<!-- omit in toc -->
 
 <p align="center">
   <img src="./docs/assets/images/grant_program_header.png" style="width:1300px";>
