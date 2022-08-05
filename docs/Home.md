@@ -14,7 +14,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-<b>Visit the [Grants Process](process) in the Wiki for more information towards understanding the Grants Program</b>
+<b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for more information towards understanding the Grants Program</b>
 
 </br>
 
