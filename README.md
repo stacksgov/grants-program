@@ -53,5 +53,3 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
-
-</br>
