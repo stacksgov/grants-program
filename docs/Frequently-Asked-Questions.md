@@ -1,4 +1,3 @@
-# Frequently Asked Questions <!-- omit in toc -->
 
 - [General](#general)
   - [Does a project need to be open-source to receive grant funding?](#does-a-project-need-to-be-open-source-to-receive-grant-funding)
@@ -11,117 +10,53 @@
 
 ---
 
-- [## General](#-general)
-  - [**Does a project need to be open-source to receive grant funding?**](#does-a-project-need-to-be-open-source-to-receive-grant-funding)
-  - [**Is there a typical funding range for a certain level of grant type?**](#is-there-a-typical-funding-range-for-a-certain-level-of-grant-type)
-  - [**Can I list the Stacks Foundation as a partner?**](#can-i-list-the-stacks-foundation-as-a-partner)
-  - [**Does the Stacks Foundation help with PR & Marketing of individual Grants?**](#does-the-stacks-foundation-help-with-pr--marketing-of-individual-grants)
-  - [**Can I reuse someone else’s Clarity Contract or any open-source code as a starting point?**](#can-i-reuse-someone-elses-clarity-contract-or-any-open-source-code-as-a-starting-point)
-  - [**One of your grantees is using my code without respecting the terms of its license.**](#one-of-your-grantees-is-using-my-code-without-respecting-the-terms-of-its-license)
-  - [**Does the Grants Team still host an office hours call?**](#does-the-grants-team-still-host-an-office-hours-call)
-- [## Submitting A Grant](#-submitting-a-grant)
-  - [**Can anyone apply?**](#can-anyone-apply)
-  - [**If I am currently enrolled in one of the other Stacks Programs can I still apply for a grant?**](#if-i-am-currently-enrolled-in-one-of-the-other-stacks-programs-can-i-still-apply-for-a-grant)
-  - [**Can I have more than one open grant?**](#can-i-have-more-than-one-open-grant)
-  - [**If you prefer to remain anonymous are you still able to be awarded a grant?**](#if-you-prefer-to-remain-anonymous-are-you-still-able-to-be-awarded-a-grant)
-  - [**Can I submit a grant for an event sponsorship?**](#can-i-submit-a-grant-for-an-event-sponsorship)
-  - [**Can I submit a grant to fund my NFT project development?**](#can-i-submit-a-grant-to-fund-my-nft-project-development)
-  - [**Can I subcontract portions of the work described in my application after the application has been accepted?**](#can-i-subcontract-portions-of-the-work-described-in-my-application-after-the-application-has-been-accepted)
-- [## Review Process](#-review-process)
-  - [**How long does the grant review process usually take?**](#how-long-does-the-grant-review-process-usually-take)
-  - [**Is there a general set of review criteria?**](#is-there-a-general-set-of-review-criteria)
-  - [**Why are other grant applications receiving feedback and/or approval before mine?**](#why-are-other-grant-applications-receiving-feedback-andor-approval-before-mine)
-  - [**My Application was rejected. Do you have any recommendations on where to go from here?**](#my-application-was-rejected-do-you-have-any-recommendations-on-where-to-go-from-here)
-- [## Funding & Payments](#-funding--payments)
-  - [**How is the value of STX tokens paid out in exchange for grant funding calculated?**](#how-is-the-value-of-stx-tokens-paid-out-in-exchange-for-grant-funding-calculated)
-  - [**Can I request payment in a token or fiat currency other than STX?**](#can-i-request-payment-in-a-token-or-fiat-currency-other-than-stx)
-  - [**Once I’ve finished onboarding, how long does it take to receive my first payment?**](#once-ive-finished-onboarding-how-long-does-it-take-to-receive-my-first-payment)
-  - [**How are STX tokens awarded as grant funds taxed?**](#how-are-stx-tokens-awarded-as-grant-funds-taxed)
-  - [**Where can my STX funds be sent to?**](#where-can-my-stx-funds-be-sent-to)
-  - [**Can I change wallet addresses after I have finished onboarding?**](#can-i-change-wallet-addresses-after-i-have-finished-onboarding)
-  - [**The address I listed on my application was wrong and I did not receive my funds, can the Grants Team recover the STX for me and/or replace it?**](#the-address-i-listed-on-my-application-was-wrong-and-i-did-not-receive-my-funds-can-the-grants-team-recover-the-stx-for-me-andor-replace-it)
-- [## Milestone Delivery](#-milestone-delivery)
-  - [**How do I submit a Milestone?**](#how-do-i-submit-a-milestone)
-  - [**Can I change the scope of my project after the application has been approved?**](#can-i-change-the-scope-of-my-project-after-the-application-has-been-approved)
-  - [**My next milestone/deliverables have changed, what should I do?**](#my-next-milestonedeliverables-have-changed-what-should-i-do)
-  - [**Can I submit a Grant for prior work?**](#can-i-submit-a-grant-for-prior-work)
-  - [**My Grant has become stale. What does this mean?**](#my-grant-has-become-stale-what-does-this-mean)
-  - [**I am unable to complete my grant, what are the steps for notifying the Grants team?**](#i-am-unable-to-complete-my-grant-what-are-the-steps-for-notifying-the-grants-team)
-  - [**Can I get help developing my grant from the Foundation team?**](#can-i-get-help-developing-my-grant-from-the-foundation-team)
-- [Completion & Beyond](#completion--beyond)
-  - [**Can I submit a follow up grant?**](#can-i-submit-a-follow-up-grant)
-  - [**How long before I can apply for a new grant for a separate project?**](#how-long-before-i-can-apply-for-a-new-grant-for-a-separate-project)
+- [Submitting A Grant](#submitting-a-grant)
+  - [Can anyone apply?](#can-anyone-apply)
+  - [If I am currently enrolled in one of the other Stacks Programs can I still apply for a grant?](#if-i-am-currently-enrolled-in-one-of-the-other-stacks-programs-can-i-still-apply-for-a-grant)
+  - [Can I have more than one open grant?](#can-i-have-more-than-one-open-grant)
+  - [If you prefer to remain anonymous are you still able to be awarded a grant?](#if-you-prefer-to-remain-anonymous-are-you-still-able-to-be-awarded-a-grant)
+  - [Can I submit a grant for an event sponsorship?](#can-i-submit-a-grant-for-an-event-sponsorship)
+  - [Can I submit a grant to fund my NFT project development?](#can-i-submit-a-grant-to-fund-my-nft-project-development)
+  - [Can I subcontract portions of the work described in my application after the application has been accepted?](#can-i-subcontract-portions-of-the-work-described-in-my-application-after-the-application-has-been-accepted)
 
 ---
-
+  
 - [Review Process](#review-process)
   - [How long does the grant review process usually take?](#how-long-does-the-grant-review-process-usually-take)
   - [Is there a general set of review criteria?](#is-there-a-general-set-of-review-criteria)
   - [Why are other grant applications receiving feedback and/or approval before mine?](#why-are-other-grant-applications-receiving-feedback-andor-approval-before-mine)
   - [My Application was rejected. Do you have any recommendations on where to go from here?](#my-application-was-rejected-do-you-have-any-recommendations-on-where-to-go-from-here)
-    <!--- - [Who is on the application review committee?](#who-is-on-the-application-review-committee) -->
-    <!--- - [How do I join the application review committee?](#how-do-i-join-the-application-review-committee) -->
 
 ---
 
-- [## General](#-general)
-  - [**Does a project need to be open-source to receive grant funding?**](#does-a-project-need-to-be-open-source-to-receive-grant-funding)
-  - [**Is there a typical funding range for a certain level of grant type?**](#is-there-a-typical-funding-range-for-a-certain-level-of-grant-type)
-  - [**Can I list the Stacks Foundation as a partner?**](#can-i-list-the-stacks-foundation-as-a-partner)
-  - [**Does the Stacks Foundation help with PR & Marketing of individual Grants?**](#does-the-stacks-foundation-help-with-pr--marketing-of-individual-grants)
-  - [**Can I reuse someone else’s Clarity Contract or any open-source code as a starting point?**](#can-i-reuse-someone-elses-clarity-contract-or-any-open-source-code-as-a-starting-point)
-  - [**One of your grantees is using my code without respecting the terms of its license.**](#one-of-your-grantees-is-using-my-code-without-respecting-the-terms-of-its-license)
-  - [**Does the Grants Team still host an office hours call?**](#does-the-grants-team-still-host-an-office-hours-call)
-- [## Submitting A Grant](#-submitting-a-grant)
-  - [**Can anyone apply?**](#can-anyone-apply)
-  - [**If I am currently enrolled in one of the other Stacks Programs can I still apply for a grant?**](#if-i-am-currently-enrolled-in-one-of-the-other-stacks-programs-can-i-still-apply-for-a-grant)
-  - [**Can I have more than one open grant?**](#can-i-have-more-than-one-open-grant)
-  - [**If you prefer to remain anonymous are you still able to be awarded a grant?**](#if-you-prefer-to-remain-anonymous-are-you-still-able-to-be-awarded-a-grant)
-  - [**Can I submit a grant for an event sponsorship?**](#can-i-submit-a-grant-for-an-event-sponsorship)
-  - [**Can I submit a grant to fund my NFT project development?**](#can-i-submit-a-grant-to-fund-my-nft-project-development)
-  - [**Can I subcontract portions of the work described in my application after the application has been accepted?**](#can-i-subcontract-portions-of-the-work-described-in-my-application-after-the-application-has-been-accepted)
-- [## Review Process](#-review-process)
-  - [**How long does the grant review process usually take?**](#how-long-does-the-grant-review-process-usually-take)
-  - [**Is there a general set of review criteria?**](#is-there-a-general-set-of-review-criteria)
-  - [**Why are other grant applications receiving feedback and/or approval before mine?**](#why-are-other-grant-applications-receiving-feedback-andor-approval-before-mine)
-  - [**My Application was rejected. Do you have any recommendations on where to go from here?**](#my-application-was-rejected-do-you-have-any-recommendations-on-where-to-go-from-here)
-- [## Funding & Payments](#-funding--payments)
-  - [**How is the value of STX tokens paid out in exchange for grant funding calculated?**](#how-is-the-value-of-stx-tokens-paid-out-in-exchange-for-grant-funding-calculated)
-  - [**Can I request payment in a token or fiat currency other than STX?**](#can-i-request-payment-in-a-token-or-fiat-currency-other-than-stx)
-  - [**Once I’ve finished onboarding, how long does it take to receive my first payment?**](#once-ive-finished-onboarding-how-long-does-it-take-to-receive-my-first-payment)
-  - [**How are STX tokens awarded as grant funds taxed?**](#how-are-stx-tokens-awarded-as-grant-funds-taxed)
-  - [**Where can my STX funds be sent to?**](#where-can-my-stx-funds-be-sent-to)
-  - [**Can I change wallet addresses after I have finished onboarding?**](#can-i-change-wallet-addresses-after-i-have-finished-onboarding)
-  - [**The address I listed on my application was wrong and I did not receive my funds, can the Grants Team recover the STX for me and/or replace it?**](#the-address-i-listed-on-my-application-was-wrong-and-i-did-not-receive-my-funds-can-the-grants-team-recover-the-stx-for-me-andor-replace-it)
-- [## Milestone Delivery](#-milestone-delivery)
-  - [**How do I submit a Milestone?**](#how-do-i-submit-a-milestone)
-  - [**Can I change the scope of my project after the application has been approved?**](#can-i-change-the-scope-of-my-project-after-the-application-has-been-approved)
-  - [**My next milestone/deliverables have changed, what should I do?**](#my-next-milestonedeliverables-have-changed-what-should-i-do)
-  - [**Can I submit a Grant for prior work?**](#can-i-submit-a-grant-for-prior-work)
-  - [**My Grant has become stale. What does this mean?**](#my-grant-has-become-stale-what-does-this-mean)
-  - [**I am unable to complete my grant, what are the steps for notifying the Grants team?**](#i-am-unable-to-complete-my-grant-what-are-the-steps-for-notifying-the-grants-team)
-  - [**Can I get help developing my grant from the Foundation team?**](#can-i-get-help-developing-my-grant-from-the-foundation-team)
-- [Completion & Beyond](#completion--beyond)
-  - [**Can I submit a follow up grant?**](#can-i-submit-a-follow-up-grant)
-  - [**How long before I can apply for a new grant for a separate project?**](#how-long-before-i-can-apply-for-a-new-grant-for-a-separate-project)
-  <!---  - [Some Level 2 Builder Grants are subject to a portion of the funding being issued as a convertible note, what does that mean?](#some-level-2-builder-grants-are-subject-to-a-portion-of-the-funding-being-issued-as-a-convertible-note-what-does-that-mean) -->
+- [Funding & Payments](#funding--payments)
+  - [Can I get an upfront payment](#can-i-get-an-upfront-payment)
+  - [How is the value of STX tokens paid out in exchange for grant funding calculated?](#how-is-the-value-of-stx-tokens-paid-out-in-exchange-for-grant-funding-calculated)
+  - [Can I request payment in a token or fiat currency other than STX?](#can-i-request-payment-in-a-token-or-fiat-currency-other-than-stx)
+  - [Once I’ve finished onboarding, how long does it take to receive my first payment?](#once-ive-finished-onboarding-how-long-does-it-take-to-receive-my-first-payment)
+  - [How are STX tokens awarded as grant funds taxed?](#how-are-stx-tokens-awarded-as-grant-funds-taxed)
+  - [Where can my STX funds be sent to?](#where-can-my-stx-funds-be-sent-to)
+  - [Can I change wallet addresses after I have finished onboarding?](#can-i-change-wallet-addresses-after-i-have-finished-onboarding)
+  - [The address I listed on my application was wrong and I did not receive my funds, can the Grants Team recover the STX for me and/or replace it?](#the-address-i-listed-on-my-application-was-wrong-and-i-did-not-receive-my-funds-can-the-grants-team-recover-the-stx-for-me-andor-replace-it)
 
 ---
 
 - [Milestone Delivery](#milestone-delivery)
   - [How do I submit a Milestone?](#how-do-i-submit-a-milestone)
-  - [Can I change the scope of my project after the application has been approved?"](#can-i-change-the-scope-of-my-project-after-the-application-has-been-approved)
+  - [Can I change the scope of my project after the application has been approved?](#can-i-change-the-scope-of-my-project-after-the-application-has-been-approved)
   - [My next milestone/deliverables have changed, what should I do?](#my-next-milestonedeliverables-have-changed-what-should-i-do)
-  - [My Grant has become stale. What does this mean?](#my-grant-has-become-stale-what-does-this-mean)
   - [Can I submit a Grant for prior work?](#can-i-submit-a-grant-for-prior-work)
+  - [My Grant has become stale. What does this mean?](#my-grant-has-become-stale-what-does-this-mean)
   - [I am unable to complete my grant, what are the steps for notifying the Grants team?](#i-am-unable-to-complete-my-grant-what-are-the-steps-for-notifying-the-grants-team)
-
+  - [Can I get help developing my grant from the Foundation team?](#can-i-get-help-developing-my-grant-from-the-foundation-team)
 
 ---
 
 - [Completion & Beyond](#completion--beyond)
   - [Can I submit a follow up grant?](#can-i-submit-a-follow-up-grant)
   - [How long before I can apply for a new grant for a separate project?](#how-long-before-i-can-apply-for-a-new-grant-for-a-separate-project)
+
+
 
 </br>
 
@@ -260,7 +195,7 @@ Team (Will, Jenny, Shakti, Adam, Shannon, Kenny, Review Committee) -->
 ---
 </br>
 
-**Can I get an upfront payment?**
+### **Can I get an upfront payment?**
 
 Grantees receive a tip-off payment once approved and onboarding has finished. The tip-off payment is equal to a milestone payment. For example, if you had a $60,000 grant awarded to you with two milestones, you will receive a payment of $20,000 upfront, and each consecutive milestone payment will also be $20,000.
 

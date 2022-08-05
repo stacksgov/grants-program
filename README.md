@@ -12,7 +12,8 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-<b>Visit the [Grants Process Wiki Page](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/process) for more information towards applying for a grant</b>
+<b>Visit the [Grants Process Wiki Page](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/process) for more information towards applying for a grant
+</b>
 
 </br>
 
@@ -27,8 +28,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-### Stacks Community Resources
-
+### Stacks Community Channels
 </br>
 
 | <img src="./docs/assets/images/web.png?s=50" width="50"> | <img src="./docs/assets/images/discord.png?s=50" width="50"> | <img src="./docs/assets/images/twitter.png?s=50" width="50"> | <img src="./docs/assets/images/blog.png?s=50" width="50"> |
@@ -41,7 +41,6 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 - [Stacks Github](https://github.com/stacks-network)
 - [Community Telegram](https://t.me/StacksChat)
-- [Stacks Youtube](https://www.youtube.com/c/Blockstack)
 
 <img src="./docs/assets/images/stacks-governance.png?s=50" width="250">
 

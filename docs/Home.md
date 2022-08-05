@@ -30,7 +30,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 </br>
 
-### Stacks Community
+### Stacks Community Channels
 
 </br>
 
@@ -44,7 +44,6 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 - [Stacks Github](https://github.com/stacks-network)
 - [Community Telegram](https://t.me/StacksChat)
-- [Stacks Youtube](https://www.youtube.com/c/Blockstack)
 
 
 <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-governance.png?s=50" width="250">
