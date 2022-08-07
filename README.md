@@ -1,34 +1,40 @@
 # Stacks Foundation Grant Launchpad<!-- omit in toc -->
 
 <p align="center">
-  <img src="./docs/assets/images/grant_program_header.png" style="width:1300px";>
+  <img src="./docs/assets/images/header.png" style="width:1300px";>
 </p>
 
 ---
 
 ## Introduction
 
-As part of our commitment to promoting a user-owned internet, The Stacks Foundation provides support for a comprehensive set of project types through a range of Funding Streams focused on funding software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf). Anyone is welcome to submit a project application. Grants funded through our programs are broad in scope, but our focus lies on strong **technical** projects that _add immediate and widespread value_ to the Stacks ecosystem. Projects are supported through grants, residencies, and other means of funding. Each Project Type belongs to a specific Funding Streams.
+As part of our commitment to promoting a user-owned internet, The Stacks Open Internet Foundation (aka Stacks Foundation) provides support for developers, designers, community leaders, and more through various types of grants.  Grant Types are organized by Funding Streams.  Grant Types consist of milestone-driven grants, community-support grants, residencies for subject matter experts, and various other forms of support.  While grants funded through our programs are broad in scope, the core mission of the Stacks Foundation is to fund software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf).  We prioritize funding strong **technical** projects that add _immediate and widespread value_ to the Stacks ecosystem. Anyone is welcome to submit a project application.
 
 </br>
 
-<b>Visit the [Grants Process Wiki Page](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/process) for more information towards applying for a grant</b>
+<b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for detailed information on the entire process.</b>
+
+<p align="center">
+<img src="./docs/assets/images/map.png" style="width:1300px";>
+</p>
 
 </br>
 
-## Additional Community Resources
+## Additional Resources
 
-<img src="./docs/assets/images/stacks-launchpad.png?s=50" width="250">
+<img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-launchpad.png?s=50" width="250">
 
-- [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
-- [Grants Kanban Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/projects?type=classic)
-- [STX Converter](https://grants.stacks.org/stacks-payment-converter)
-- [Grant Data Exporter](https://grants.stacks.org/project-data-exporter)
+- The only way to submit a new application: [Stacks Foundation Grant Launchpad](https://grants.stacks.org)
+- Research and review all previously submitted application: [Grant Applications](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues)
+- Ask questions about the process and/or your grant idea: [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
+- Check out the Kanban board to see the entire application queue: [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
+
+- Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
+- Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter) (coming soon)
 
 </br>
 
-### Stacks Community Resources
-
+### Stacks Community Channels
 </br>
 
 | <img src="./docs/assets/images/web.png?s=50" width="50"> | <img src="./docs/assets/images/discord.png?s=50" width="50"> | <img src="./docs/assets/images/twitter.png?s=50" width="50"> | <img src="./docs/assets/images/blog.png?s=50" width="50"> |
@@ -41,7 +47,6 @@ As part of our commitment to promoting a user-owned internet, The Stacks Foundat
 
 - [Stacks Github](https://github.com/stacks-network)
 - [Community Telegram](https://t.me/StacksChat)
-- [Stacks Youtube](https://www.youtube.com/c/Blockstack)
 
 <img src="./docs/assets/images/stacks-governance.png?s=50" width="250">
 
