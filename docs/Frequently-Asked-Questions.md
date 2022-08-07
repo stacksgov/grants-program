@@ -138,7 +138,7 @@ No, all grantees must go through a Know-Your-Customer onboarding process on [Pas
 
 ### **Can I submit a grant for an event sponsorship?**
 
-We accept applications for putting on Stacks related events. Specifically for sponsorships of events. Please reach out to the events team first: [events@stacks.org](mailto:events@stacks.org).
+We accept applications for putting on Stacks related events. Specifically for sponsorships of events. Please apply for a Stacks Event Grant for consideration.
 
 </br>
 
@@ -180,9 +180,9 @@ Feedback and review are based on the grant track and amount requested. The appli
 
 All rejecections will include feedback from the Review Committee, if there are any follow-up questions please submit them to the [Discussion Section](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions).
 
-<!---### How do I join the application review committee?
+### How do I join the application review committee?
 
-????????????? -->
+Glad you asked!  Please email grants@stacks.org with the subjectline "Request to join Grant Review Committee".
 
 <!---### Who is on the application review committee?
 
@@ -197,7 +197,7 @@ Team (Will, Jenny, Shakti, Adam, Shannon, Kenny, Review Committee) -->
 
 ### **Can I get an upfront payment?**
 
-Grantees receive a tip-off payment once approved and onboarding has finished. The tip-off payment is equal to a milestone payment. For example, if you had a $60,000 grant awarded to you with two milestones, you will receive a payment of $20,000 upfront, and each consecutive milestone payment will also be $20,000.
+Grantees receive an initial payment once approved and onboarding has finished. The initial payment is equal to a milestone payment. 
 
 </br>
 
@@ -216,18 +216,13 @@ Sorry, the Grants Program only funds grants in STX tokens.
 
 ### **Once I’ve finished onboarding, how long does it take to receive my first payment?**
 
-The tip-off payment and any subsequent milestone payments can take up to 21 days, as explained in the contract. Day 1 begins once onboarding is complete for tip-off payment and milestone payment processing begins upon approval of milestone deliverables.
-
-<!---### Some Level 2 Builder Grants are subject to a portion of the funding being issued as a convertible note, what does that mean?
-
-????????????????? -->
-
+All payments can take up to 20 days, from approval to corresponding payment.
 
 </br>
 
 ### **How are STX tokens awarded as grant funds taxed?**
 
-Please consult with your tax advisor. The Foundation reports all funds paid to grantees to the IRS in accordance with United States law.
+Please consult with your tax advisor. The Stacks Foundation reports all funds paid to grantees to the IRS in accordance with United States law.  Grantees are responsible for paying their own taxes and understanding regulator guidelines in their domicile.
 
 
 </br>
@@ -286,7 +281,7 @@ Please comment on your project's issue explaining why this is the case.
 
 </br>
 
-### **Can I get help developing my grant from the Foundation team?**
+### **Can I get help developing my grant from the Stacks Foundation team?**
 
 We expect applicants to be well aware of the technical challenges required to develop and complete their grant when submitting their application. The Community and Foundations team members are available to help answer questions and set you up for success in order to complete your application. Please join the [Stacks Discord](https://discord.gg/5usXsXSUAK) for help.
 
