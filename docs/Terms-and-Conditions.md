@@ -1,20 +1,20 @@
 # Grants Terms and Conditions
 
 
-- [Introduction](#1-introduction)
-- [Defined Terms](#2-defined-terms)
-- [eligibility](#3-eligibility)
-- [Procedure](#4-procedure)
-- [Scope of these Terms & Conditions](#5-scope-of-these-terms-and-conditions)
-- [Obligations of User](#6-obligations-of-user)
-- [Term of Grant Giving](#7-terms-of-grant-giving)
-- [Taxes and Other Duties](#8-taxes-and-other-duties)
-- [Warranties and Liabilities](#9-warranties-and-liabilities)
-- [Term & Termination](#10-term-and-termination)
-- [Notice](#11-notices)
-- [Miscellaneous](#12-miscellaneous)
-- [Applicable Law & Jurisdiction](#13-applicable-law-and-jurisdiction)
-- [Stacks Network](#14-stacks-network)
+- [Introduction](#1--introduction)
+- [Defined Terms](#2--defined-terms)
+- [eligibility](#3--eligibility)
+- [Procedure](#4--procedure)
+- [Scope of these Terms & Conditions](#5--scope-of-these-terms-and-conditions)
+- [Obligations of User](#6--obligations-of-user)
+- [Term of Grant Giving](#7--terms-of-grant-giving)
+- [Taxes and Other Duties](#8--taxes-and-other-duties)
+- [Warranties and Liabilities](#9--warranties-and-liabilities)
+- [Term & Termination](#10--term-and-termination)
+- [Notice](#11--notices)
+- [Miscellaneous](#12--miscellaneous)
+- [Applicable Law & Jurisdiction](#13--applicable-law-and-jurisdiction)
+- [Stacks Network](#14--stacks-network)
 
 
 
