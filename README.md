@@ -1,7 +1,7 @@
 # Stacks Foundation Grant Launchpad<!-- omit in toc -->
 
 <p align="center">
-  <img src="./docs/assets/images/header.png" style="width:1300px";>
+  <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/header.png" style="width:1300px";>
 </p>
 
 ---
@@ -12,11 +12,14 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 </br>
 
+
 <b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for detailed information on the entire process.</b>
 
 <p align="center">
-<img src="./docs/assets/images/map.png" style="width:1300px";>
+<img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/map.png" style="width:1300px";>
 </p>
+
+<b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for more information towards understanding the Grants Program</b>
 
 </br>
 
@@ -29,32 +32,40 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 - Ask questions about the process and/or your grant idea: [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
 - Check out the Kanban board to see the entire application queue: [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
 
+- [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
+- [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
+- [Grants Application Dashboard](https://grants.stacks.org)
+  - [STX Converter](https://grants.stacks.org/stacks-payment-converter)
+  - [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter)
+
+
 - Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
 - Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter) (coming soon)
+
 
 </br>
 
 ### Stacks Community Channels
 </br>
 
-| <img src="./docs/assets/images/web.png?s=50" width="50"> | <img src="./docs/assets/images/discord.png?s=50" width="50"> | <img src="./docs/assets/images/twitter.png?s=50" width="50"> | <img src="./docs/assets/images/blog.png?s=50" width="50"> |
+| <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/web.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/discord.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/twitter.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/blog.png?s=50" width="50"> |
 | :------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
 |              [Stacks.co](https://stacks.co)              |           [Discord](https://discord.gg/5usXsXSUAK)           |            [Twitter](https://twitter.com/Stacks)             |              [Blog](https://stacks.org/blog)              |
 
-| <img src="./docs/assets/images/telegram.png?s=50" width="50"> | <img src="./docs/assets/images/reddit.png?s=50" width="50"> | <img src="./docs/assets/images/youtube-play.png?s=50" width="50"> | <img src="./docs/assets/images/calendar.png?s=50" width="50"> |
+| <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/telegram.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/reddit.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/youtube-play.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/calendar.png?s=50" width="50"> |
 | :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------: | :-----------------------------------------------------------: |
 |           [Telegram](https://t.me/BlockstackUpdate)           |         [ Reddit](https://www.reddit.com/r/stacks/)         |          [YouTube](https://www.youtube.com/c/Blockstack)          |   [Calendar](https://community.stacks.org/events#calendar)    |
 
 - [Stacks Github](https://github.com/stacks-network)
 - [Community Telegram](https://t.me/StacksChat)
 
-<img src="./docs/assets/images/stacks-governance.png?s=50" width="250">
+<img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-governance.png?s=50" width="250">
 
 - [Stacks Governance Resources](https://github.com/stacksgov/resources#stacks-governance---resources)
 - [Stacks Improvment Proposals](b.com/stacksgov/sips#stacks-improvement-proposals-sips)
 - [Stacks Residence Program](https://github.com/stacksgov/residence-program)
 
-<img src="./docs/assets/images/stacks-foundation.png?s=50" width="250">
+<img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-foundation.png?s=50" width="250">
   
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
