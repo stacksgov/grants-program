@@ -25,8 +25,6 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 ## Additional Resources
 
-<img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-launchpad.png?s=50" width="250">
-
 - The only way to submit a new application: [Stacks Foundation Grant Launchpad](https://grants.stacks.org)
 - Research and review all previously submitted application: [Grant Applications](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues)
 - Ask questions about the process and/or your grant idea: [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
