@@ -39,7 +39,7 @@
 - [Grants Terms and Conditions](Terms-and-Conditions)
   - [Introduction](Terms-and-Conditions#1-introduction)
   - [Defined Terms](Terms-and-Conditions#2-defined-terms)
-  - [eligibility](Terms-and-Conditions#3-eligibility)
+  - [Eligibility](Terms-and-Conditions#3-eligibility)
   - [Procedure](Terms-and-Conditions#4-procedure)
   - [Scope of these Terms & Conditions](Terms-and-Conditions#5-scope-of-these-terms-and-conditions)
   - [Obligations of User](Terms-and-Conditions#6-obligations-of-user)
