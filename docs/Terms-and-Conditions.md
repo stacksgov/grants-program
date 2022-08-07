@@ -3,7 +3,7 @@
 
 - [Introduction](#1-introduction)
 - [Defined Terms](#2-defined-terms)
-- [eligibility](#3-eligibility)
+- [Eligibility](#3-eligibility)
 - [Procedure](#4-procedure)
 - [Scope of these Terms & Conditions](#5-scope-of-these-terms-and-conditions)
 - [Obligations of User](#6-obligations-of-user)

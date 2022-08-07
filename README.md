@@ -31,19 +31,18 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 - The only way to submit a new application: [Stacks Foundation Grant Launchpad](https://grants.stacks.org)
 - Research and review all previously submitted application: [Grant Applications](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues)
-- Ask questions about the process and/or your grant idea: [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
 - Check out the Kanban board to see the entire application queue: [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
-
-- Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
-- Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants.stacks.org/grant-data-exporter)
-
-- [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
+- Ask questions about the process and/or your grant idea: [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
   - [Announcements](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/announcements)
   - [General Discussion](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/general)
   - [Payments & Onboarding](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/payments-onboarding)
   - [Q&A](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
   - [Show & Tell](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/show-and-tell)
   - [Wishlist Ideas](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/wishlist-ideas)
+
+- Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
+- Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants.stacks.org/grant-data-exporter)
+
 
 
 </br>
