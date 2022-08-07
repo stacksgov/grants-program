@@ -38,3 +38,5 @@
   - [Applicable Law & Jurisdiction](Terms-and-Conditions#13--applicable-law-and-jurisdiction)
   - [Stacks Network](Terms-and-Conditions#14-stacks-network)
 - [Additional Resources](Home#additional-resources)
+
+

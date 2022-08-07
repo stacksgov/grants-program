@@ -12,11 +12,14 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 </br>
 
+
 <b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for detailed information on the entire process.</b>
 
 <p align="center">
 <img src="./docs/assets/images/map.png" style="width:1300px";>
 </p>
+
+<b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for more information towards understanding the Grants Program</b>
 
 </br>
 
@@ -29,8 +32,16 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 - Ask questions about the process and/or your grant idea: [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
 - Check out the Kanban board to see the entire application queue: [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
 
+- [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
+- [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
+- [Grants Application Dashboard](https://grants.stacks.org)
+  - [STX Converter](https://grants.stacks.org/stacks-payment-converter)
+  - [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter)
+
+
 - Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
 - Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter) (coming soon)
+
 
 </br>
 
