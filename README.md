@@ -1,4 +1,4 @@
-# Stacks Foundation Grant Launchpad<!-- omit in toc -->
+# Stacks Grant Launchpad<!-- omit in toc -->
 
 <p align="center">
   <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/header.png" style="width:1300px";>
@@ -6,20 +6,24 @@
 
 ---
 
+<i>Please note: Previously submitted grants can be found in one of two places depending on when they were submitted and approved:
+- Applications submitted between <u>1/1/2020</u> and <u>4/20/2022</u> can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues?q=is%3Aissue+is%3Aclosed).
+- Applications submitted, approved, and completed between <u>4/20/2022</u> and <u>8/5/2022</u> can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues) .
+- Applications submitted, approved, but have not yet been completed can be found [here](https://grants.stacks.org/grants)</i>
+
+</br>
+
 ## Introduction
 
 As part of our commitment to promoting a user-owned internet, The Stacks Open Internet Foundation (aka Stacks Foundation) provides support for developers, designers, community leaders, and more through various types of grants.  Grant Types are organized by Funding Streams.  Grant Types consist of milestone-driven grants, community-support grants, residencies for subject matter experts, and various other forms of support.  While grants funded through our programs are broad in scope, the core mission of the Stacks Foundation is to fund software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf).  We prioritize funding strong **technical** projects that add _immediate and widespread value_ to the Stacks ecosystem. Anyone is welcome to submit a project application.
 
 </br>
 
-
-<b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for detailed information on the entire process.</b>
-
 <p align="center">
 <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/map.png" style="width:1300px";>
 </p>
 
-<b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for more information towards understanding the Grants Program</b>
+<b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for detailed information on the entire process.</b>
 
 </br>
 
@@ -30,15 +34,16 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 - Ask questions about the process and/or your grant idea: [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
 - Check out the Kanban board to see the entire application queue: [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
 
-- [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
-- [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/grants/)
-- [Grants Application Dashboard](https://grants.stacks.org)
-  - [STX Converter](https://grants.stacks.org/stacks-payment-converter)
-  - [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter)
-
-
 - Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
-- Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants-dashboard.vercel.app/grant-data-exporter) (coming soon)
+- Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants.stacks.org/grant-data-exporter)
+
+- [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
+  - [Announcements](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/announcements)
+  - [General Discussion](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/general)
+  - [Payments & Onboarding](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/payments-onboarding)
+  - [Q&A](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
+  - [Show & Tell](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/show-and-tell)
+  - [Wishlist Ideas](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/wishlist-ideas)
 
 
 </br>

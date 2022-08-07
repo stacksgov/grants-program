@@ -1,20 +1,20 @@
 # Grants Terms and Conditions
 
 
-- [Introduction](#1--introduction)
-- [Defined Terms](#2--defined-terms)
-- [eligibility](#3--eligibility)
-- [Procedure](#4--procedure)
-- [Scope of these Terms & Conditions](#5--scope-of-these-terms-and-conditions)
-- [Obligations of User](#6--obligations-of-user)
-- [Term of Grant Giving](#7--terms-of-grant-giving)
-- [Taxes and Other Duties](#8--taxes-and-other-duties)
+- [Introduction](#1-introduction)
+- [Defined Terms](#2-defined-terms)
+- [eligibility](#3-eligibility)
+- [Procedure](#4-procedure)
+- [Scope of these Terms & Conditions](#5-scope-of-these-terms-and-conditions)
+- [Obligations of User](#6-obligations-of-user)
+- [Term of Grant Giving](#7-terms-of-grant-giving)
+- [Taxes and Other Duties](#8-taxes-and-other-duties)
 - [Warranties and Liabilities](#9--warranties-and-liabilities)
 - [Term & Termination](#10--term-and-termination)
-- [Notice](#11--notices)
-- [Miscellaneous](#12--miscellaneous)
-- [Applicable Law & Jurisdiction](#13--applicable-law-and-jurisdiction)
-- [Stacks Network](#14--stacks-network)
+- [Notice](#11-notices)
+- [Miscellaneous](#12-miscellaneous)
+- [Applicable Law & Jurisdiction](#13-applicable-law-and-jurisdiction)
+- [Stacks Network](#14-stacks-network)
 
 
 
@@ -100,7 +100,7 @@ The open grants process consists of five parts, each of them described in more d
 **(i)  Application Review Phase:**
 
 This phase consists of the following steps:
-- Submit an application via the [Stacks Foundation Projects Launchpad](https://grants.stacks.org/). 
+- Submit an application via the [Stacks Foundation Grant Launchpad](https://grants.stacks.org/). 
   - *The Project Launchpad creates a Github issue for your project application.*
   - *After creating your application all interaction, revisions, updates occur on Github.*
 - Receive informal feedback received from the community on your application via comments on your Github issue.
@@ -222,7 +222,7 @@ Furthermore, termination can happen for any reason at the discretion of the the 
 
 We may provide any notice to You under these terms and conditions by posting a notice on our Website, adding a comment to the initial pull request of your application on GitHub or sending an email to the email address associated with Your access account to the network. Notices We provide by posting on the Website will be effective upon posting. You will be deemed to have received any email sent to the email address then associated with Your account when We have sent the email (or the next regular working day thereafter), whether or not You actually receive or read the email. It is Your responsibility to keep Your email address current.
 
-To give Us notice under these terms and conditions, You must contact us by email to [grants@stacks.org]. We may update this email address for notices to us by posting a notice on Our Website. Notices to us will be effective one business day after they are sent.
+To give Us notice under these terms and conditions, You must contact us by email at [grants@stacks.org](mailto:grants@stacks.org). We may update this email address for notices to us by posting a notice on Our Website. Notices to us will be effective one business day after they are sent.
 
 All communications and notices to be made or given pursuant to these terms and conditions must be in English language.
 
