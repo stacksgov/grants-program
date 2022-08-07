@@ -2,17 +2,18 @@
 - [Grant Requirements](#grant-requirements)
   - [Grant Application Expectations](#grant-application-expectations)
   - [Grant Application Suggestions](#grant-application-suggestions)
-  - [Project Lead Responsibilities](#project-lead-responsibilities)
+  - [Great Lead Responsibilities](#great-lead-responsibilities)
 ----
 
 # Grant Requirements
 
 
-- All code produced as part of a project funded by the Stacks Foundation must be **open-sourced**, and it must also not rely on closed-source software for full functionality. **We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.**
+- All code produced as part of a grant funded by the Stacks Foundation must be **open-sourced**, and it must also not rely on closed-source software for full functionality. **We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.**
 - Individuals and teams must finish one grant before applying for another one.
-- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
+- Only repeat grantees are allowed to apply for grants over $25k.
+- Lastly, we do not fund grants that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
 
-In addition to the information provided on your application, note that your project will need to comply with our [Guidelines for Milestone Deliverables](Process#c-milestone-deliverable-phase). In particular, we require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product.
+In addition to the information provided on your application, note that all deliverables associated with your grant will need to comply with our [Milestone & Final Deliverable Delivery Guidelines](link)
 
 Finally, we take licensing and the right of all teams in and outside the ecosystem to be recognized for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery **will lead to immediate termination**. Please reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
 
@@ -30,10 +31,7 @@ We expect all applications to:
 
 Things we encourage:
 
-- **DO** : Educate yourself on the process. Before submitting your application:
-  - Read this document in its entirety.
-  - Study grant applications with a similar mission in the Program Applications GitHub repo.
-  - Build a relationship with the Stacks community on the Stacks Discord server.
+- **DO** : Educate yourself on the process. 
 - **DO** : Focus on new & novel, open-source ideas that the Stacks community has a clear demand for, prove there is demand, and prove you can measure how your solution will aid that demand.
 - **DO** : Start small and build a relationship. Don’t over ask. We encourage all builders new to the community to first start with a small grant with a modest budget.
 
@@ -44,27 +42,27 @@ Things we discourage:
 
 Before submitting your application, ask yourself the following questions:
 
-- **DOES YOUR PROJECT** : Advance the mission of a more user-owned internet?
-- **DOES YOUR PROJECT** : Accelerate a broader adoption of Stacks technology?
-- **DOES YOUR PROJECT** : Unlock immediate and widespread value for the Stacks community?
-- **DOES YOUR PROJECT** : Yield new & novel: code, technology, and/or culture on Stacks?
-- **DOES YOUR PROJECT** : Have a crystal-clear scope, objective, and audience?
-- **DOES YOUR PROJECT** : Have a crystal-clear and measurable (and verifiable) definition of success?
-- **DOES YOUR PROJECT** : Have any potential risks? If so, have you identified them and helped us understand how you plan to overcome those risks?
+- **DOES YOUR GRANT** : Advance the mission of a more user-owned internet?
+- **DOES YOUR GRANT** : Accelerate a broader adoption of Stacks technology?
+- **DOES YOUR GRANT** : Unlock immediate and widespread value for the Stacks community?
+- **DOES YOUR GRANT** : Yield new & novel: code, technology, and/or culture on Stacks?
+- **DOES YOUR GRANT** : Have a crystal-clear scope, objective, and audience?
+- **DOES YOUR GRANT** : Have a crystal-clear and measurable (and verifiable) definition of success?
+- **DOES YOUR GRANT** : Have any potential risks? If so, have you identified them and helped us understand how you plan to overcome those risks?
   - Risks could be related to team, security, technological dependencies, and/or market readiness.
 
 </br>
 
-## Project Lead Responsibilities
+## Great Lead Responsibilities
 
 ---
 
-When you submit an application, you are considered the applicant or Project Lead. Before you submit, its worth better understanding the responsiblities that come with that role:
+When you submit an application, you are considered the applicant or Grant Lead. Before you submit, its worth better understanding the responsiblities that come with that role:
 
-- While a project may have several project team members, a grant can only have one Project Lead.
-- The Project Lead will need to verify their identity (using a third party KYC service) and sign a contract.
-- The Project Lead will need to provide tax documentation in the form of a completed 1099, and/or 8ben, fw8ben depending on their home domicile.
-- The STX wallet address and memo the Project Lead provides in the original grant application will be associated with the contract and cannot be changed.
+- While a Grant may have several team members, a grant can only have one Grant Lead.
+- The Grant Lead will need to verify their identity (using a third party KYC service) and sign a contract.
+- The Grant Lead will need to provide tax documentation in the form of a completed 1099, and/or 8ben, fw8ben depending on their home domicile.
+- The STX wallet address and memo the Grant Lead provides upon application approval will be associated with the contract and cannot be changed.
 - Additionally, this address will be the sole wallet to receive funds for the grant.
 
 </br>

@@ -3,12 +3,12 @@
 | FUNDING STREAMS              | GRANT TYPE                        | MAX $      |                                         DETAILS |
 | ---------------------------- | :---------------------------------- | :--------- | ----------------------------------------------: |
 | **Developer Grants**         |                                     |
-|                              | Open Source Starter Grant           | ($0-25k)   |           [details](#open-source-starter-grant) |
-|                              | Open Source Builder Grant           | ($25-250k) |           [details](#open-source-builder-grant) |
+|                              | Open Source Dev, First-time Grant          | ($0-25k)   |           [details](#open-source-dev-first-time-grant) |
+|                              | Open Source Dev, Repeat / Follow-up Grant         | ($25-250k) |           [details](#open-source-dev-repeat-grant) |
 | **Community Grants**         |                                     |            |
-|                              | Stacks Community Builder Grant      | (Varies)   |      [details](#stacks-community-builder-grant) |
-|                              | Stacks Education Grant              | (Varies)   |              [details](#stacks-education-grant) |
-|                              | Stacks Event Grant                  | (Varies)   |                  [details](#stacks-event-grant) |
+|                              | Stacks Community Builder Grant      | ($0-10k)   |      [details](#stacks-community-builder-grant) |
+|                              | Stacks Education Grant              | ($0-10k)   |              [details](#stacks-education-grant) |
+|                              | Stacks Event Grant                  | ($0-10k)   |                  [details](#stacks-event-grant) |
 |                              | Stacks Chapter Grant (by Region)    | (Varies)   |      [details](#stacks-chapter-grant-by-region) |
 | **Wishlist Grants**          |                                     |            |
 |                              | Wishlist Grants                     | (Varies)   |                     [details](#wishlist-grants) |
@@ -29,11 +29,15 @@
 
 </br>
 
-### Open Source Starter Grant
+### Open Source Dev, First-time Grant
+
+This is the best place for developers new to the Stacks Foundation grant process to start.  Funding for new and novel, technology-rich grants available from $0 to $25k.
 
 </br>
 
-### Open Source Builder Grant
+### Open Source Dev, Repeat / Follow-up Grant
+
+Once you have an Open Source Dev, First-time Grant under your belt, we encourage developers to apply for an Open Source Dev, Repeat / Follow-up Grant.  Having a relationship with a developer, a team, and/or a project provides opportunities for increased funding.  Grants available from $25k to $250k.
 
 </br>
 
@@ -44,18 +48,24 @@
 
 ### Stacks Community Builder Grant
 
+This is a great place for individuals or teams looking to champion community building efforts to start.  Funding available from $0 to $10k.
+
 </br>
 
 ### Stacks Education Grant
+
+This is a great place for individuals or teams looking to champion educational efforts (technical or otherwise) to start.  Funding available from $0 to $10k.
 
 </br>
 
 ### Stacks Event Grant
 
+This is a great place for individuals or teams looking to put on their own Stacks-related event (virtual or IRL).  This is also a great place for event coordinators to start if they are looking for sponsorship for a Stacks-related event their are planning.  Funding available from $0 to $10k.
+
 </br>
 
 ### Stacks Chapter Grants (by Region)
-The Chapters Program supports community leaders around the world in onboarding more builders and developers to the Stacks network, increasing access to STX tokens, and educating local communities on our mission of delivering a user-owned internet.</br>
+The Chapters Program supports community leaders around the world in onboarding more builders and developers to the Stacks network, increasing access to STX tokens, and educating local communities on our mission of delivering a user-owned internet. If you are interested in starting a Stacks Chapter in your region, we strongly encourage you to apply for one of the other three types of Community Grants first and use that as an opportunity to build a relationship with the Stacks Foundation team.</br>
 [Learn More](https://stacks.org/stacks-chapters-collective-impact)
 
 </br>
@@ -63,7 +73,7 @@ The Chapters Program supports community leaders around the world in onboarding m
 ## Wishlist Grants
 ---
 
-<i>Wishlist Grants are a set of ideas put forth by the community to be listed as a sort of bounty grant for teams to apply for and build out for the community.</i>
+<i>Wishlist Grants are a set of ideas put forth by the community to be listed as a sort of bounty grant for teams to apply for and build out for the community.  We (the Stacks Foundation) consider Wishlist Grants to be a top priority and hope to have 50% of all grants awarded be for high-impact, community-suggested Wishlist Grants within the next 6 months.</i>
 - ### [Wishlist Grants Available](https://github.com/stacksgov/Stacks-Grants-Launchpad/projects/3)
 
 - ### Wishlist Idea Submission Process
@@ -80,15 +90,18 @@ The Chapters Program supports community leaders around the world in onboarding m
 
 ### Stacks Foundation Residence Program
 
-The Residance program aims to create opportunities for leaders and teams to continue to build out the Stacks Ecosystem. Our first cohort of residents is focused on key areas of the ecosystem, including governance, DAOs, token community management, NFTs, and Stacking. Below is an update from each resident and their respective projects.</br>[Learn More](https://stacks.org/introducing-stacks-residents)
+The Residance program aims to create opportunities for leaders and teams to continue to build out the Stacks Ecosystem as subject matter experts. Our first cohort of residents is focused on key areas of the ecosystem, including governance, DAOs, token community management, NFTs, and Stacking. Below is an update from each resident and their respective projects.</br>[Learn More](https://stacks.org/introducing-stacks-residents).  We (the Stacks Foundation) treat the selection of Residents with the highest level of scrutiny and suggest applying for other grants prior to applying for a Residency. Residents are expected to produce code, tooling, resources, etc that enable to Stacks ecosystem to benefit from their contributions long after the conclusion of their Residency.
 
 </br>
 
 ### Stacks Foundation Direct Investment
 
-[Coming Soon]
+When a builder or team is working on a project that is either:
+- Not open-source
+- Has received other forms of funding (Stacks Foundation provided or otherwise)
+- Has found product-market fit, but has yet to fundraise
 
-
+We (the Stacks Foundation) is open to considering Direct Investment in the form of a SAFE (Simple Agreement for Future Equity) note.  
 
 </br>
 
@@ -98,15 +111,21 @@ The Residance program aims to create opportunities for leaders and teams to cont
 </br>
 
 ## ALEX Lab Foundation Grant
-ALEX guides those interested in building on ALEX to apply for Stacks Foundation grant.</br>
-[Coming Soon]
-<!-- - The applicant will duly complete the grant application, which will be assessed by Stacks foundation.
- - The applicant will submit the application to ALEX, who will assess and determine own grant, subject to the application’s acceptance by Stacks foundation.
- - ALEX’s grant will be capped to [50%]of Max Funding granted by Stacks foundation, paid in $ALEX, and will be disbursed following the same schedule as Stacks foundation grant. -->
+Interested in building on ALEX?  Apply for a grant through the first (of potentially many) Ecosystem Partner Grants.  All of the specifics are being worked out, but once we have a collection of applications to review, we (the Stacks Foundation) and the ALEX Lab Foundation will be able to quickly work together to figure out all of the specifics. 
+
+Once the process has been fine tuned, we hope to offer a similar arrangement to other partner organizations from within the Stacks Ecosystem.</br>
 
 </br>
 
 # Affiliated Organizations
+
+## The Stacks Startup Lab
+Jumpstart you Web3 Future. Fast!</br>
+A 2-month step-by-step bootcamps for startups with 1 on 1 mentorship - offering founders everything they need to build a team and a solid Web3 startup fast!</br>
+https://web3startuplab.io/
+
+---
+
 ## [Stacks Ventures](https://stacksventures.io/)
 - ### <u>Stacks Web3 Startup Lab</u>
    A 2-month step-by-step bootcamp for startups with 1 on 1 mentorship offering everything founders need to build their team and a solid Web3 startup core to get fast tracked to Stacks Ventures for growth and raising funds.</br>
