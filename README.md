@@ -9,7 +9,7 @@
 <i>Please note: Previously submitted grants can be found in one of two places depending on when they were submitted and approved:
 - Applications submitted between <u>1/1/2020</u> and <u>4/20/2022</u> can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues?q=is%3Aissue+is%3Aclosed).
 - Applications submitted, approved, and completed between <u>4/20/2022</u> and <u>8/5/2022</u> can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues) .
-- Applications submitted, approved, but have not yet been completed can be found [here](stacks-grant.netlify.app)</i>
+- Applications submitted, approved, but have not yet been completed can be found [here](grantsdashboard.stacks.org)</i>
 
 </br>
 
