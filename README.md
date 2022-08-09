@@ -12,7 +12,7 @@
 - Applications submitted, approved, but have not yet been completed can be found [here](https://grantsdashboard.stacks.org/grants)
 </br>
 
-Please report any issues with the grant launchad site to the discussion forums [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/launchpad-issues)
+Please report any issues with the grant launchpad site to the discussion forums [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/launchpad-issues)
 
 </br>
 
