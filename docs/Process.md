@@ -40,8 +40,8 @@ Applications are reviewed in **Groups**.  Groups are broken up into two types:
 Each Group consists of four **Sections**:
 -   **A** : Applications Open
 -   **B** : Applications Close
--   **C** : Application Review Committee Week
--   **D** : Final Decisions & Recap Meeting
+-   **C** : Application Review Committee (2 weeks)
+-   **D** : Final Decisions & Recap Meeting (1 week)
   
 <br/>
 
@@ -58,12 +58,12 @@ Please note:
 
 <br/>
 
-| **>Application Group** | **A** Date | **B** Date  | **C** Date | **D** Date  | 
+| **Application Group** | **A** Date | **B** Date  | **C** Date | **D** Date  | 
 | :--: | :--:| :--:| :--:| :--:| 
 | **Q3-A**     | n/a | n/a | n/a | n/a
-| **Q3-B**     | 8/8/2022 | 9/10/2022 | 9/11/2022 | 9/23/2022
-| **Q4-A**     | 9/11/2022 | 10/29/2022 | 10/30/2022 | 11/11/2022 
-| **Q4-B**     | 10/30/2022 | 12/10/2022 | 12/11/2022 | 12/23/2022 
+| **Q3-B**     | 8/8/2022 | 9/03/2022 | 9/04/2022 | 9/23/2022
+| **Q4-A**     | 9/11/2022 | 10/22/2022 | 10/23/2022 | 11/11/2022 
+| **Q4-B**     | 10/30/2022 | 12/03/2022 | 12/04/2022 | 12/23/2022 
 | 
 
 ### Project Lead Responsiblities
