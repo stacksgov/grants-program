@@ -74,3 +74,4 @@ When you submit an application, you are considered the applicant or Project Lead
 - The Project Lead will need to provide tax documentation in the form of a completed 1099, and/or 8ben, fw8ben depending on their home domicile.
 - The STX wallet address and memo the Project Lead provides in the original project application will be associated with the contract and cannot be changed. 
 - Additionally, this address will be the sole wallet to receive funds for the project.
+
