@@ -12,15 +12,9 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 <b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for detailed information on the entire process.</b>
 
-</br>
-
 <p align="center">
 <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/map.png" style="width:1300px";>
 </p>
-
-
-
-</br>
 
 ## Additional Resources
 
@@ -34,11 +28,11 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
   - [Q&A](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
   - [Show & Tell](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/show-and-tell)
   - [Wishlist Ideas](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/wishlist-ideas)
+  - [Launchpad Issues](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/launchpad-issues)
 
 - Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
 - Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants.stacks.org/grant-data-exporter)
-
-
+- Applications submitted, approved, and completed between 4/20/2022 and 8/5/2022 can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues).  
 
 </br>
 
@@ -67,12 +61,3 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
-  
-  
-<i>Please note: Previously submitted grants can be found in one of two places depending on when they were submitted and approved:</i>
-- Applications submitted between 1/1/2020 and 4/20/2022 can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues?q=is%3Aissue+is%3Aclosed).
-- Applications submitted, approved, and completed between 4/20/2022 and 8/5/2022 can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues) .
-- Applications submitted, approved, but have not yet been completed can be found [here](https://grantsdashboard.stacks.org/grants)
-</br>
-
-Please report any issues with the grant launchpad site to the discussion forums [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/launchpad-issues)
