@@ -32,7 +32,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 - Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
 - Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants.stacks.org/grant-data-exporter)
-- Applications submitted, approved, and completed between 4/20/2022 and 8/5/2022 can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues).  
+- Applications submitted, approved, and completed between 4/20/2022 and 8/5/2022 can be found [here](https://grantsdashboard.stacks.org/grants).  
 
 </br>
 
