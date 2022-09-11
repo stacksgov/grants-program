@@ -6,14 +6,6 @@
 
 ---
 
-<i>Please note: Previously submitted grants can be found in one of two places depending on when they were submitted and approved:</i>
-- Applications submitted between 1/1/2020 and 4/20/2022 can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues?q=is%3Aissue+is%3Aclosed).
-- Applications submitted, approved, and completed between 4/20/2022 and 8/5/2022 can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues) .
-- Applications submitted, approved, but have not yet been completed can be found [here](https://grantsdashboard.stacks.org/grants)
-</br>
-
-Please report any issues with the grant launchpad site to the discussion forums [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/launchpad-issues)
-
 </br>
 
 ## Introduction
@@ -75,3 +67,12 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
+  
+  
+<i>Please note: Previously submitted grants can be found in one of two places depending on when they were submitted and approved:</i>
+- Applications submitted between 1/1/2020 and 4/20/2022 can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues?q=is%3Aissue+is%3Aclosed).
+- Applications submitted, approved, and completed between 4/20/2022 and 8/5/2022 can be found [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues) .
+- Applications submitted, approved, but have not yet been completed can be found [here](https://grantsdashboard.stacks.org/grants)
+</br>
+
+Please report any issues with the grant launchpad site to the discussion forums [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/launchpad-issues)
