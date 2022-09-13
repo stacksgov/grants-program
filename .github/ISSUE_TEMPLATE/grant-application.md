@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-# "PLEASE NOTE: THE STACKS FOUNDATION GITHUB GRANT ISSUES ARE FOR ARCHIVE PURPOSES ONLY
+# PLEASE NOTE: THE STACKS FOUNDATION GITHUB GRANT ISSUES ARE FOR ARCHIVE PURPOSES ONLY
 
-All new grant application should be submitted via www.stacks.org/grants.
+All new grant application should be submitted via https://grants.stacks.org/.
 
 If you submit an application for a grant via this repo the application will not be review.
 
 If you have any comments, questions or concerns please visit the #grants channel on the Stacks Discord server or email ambassadors@stacks.org.
 
-Thank you!"
+Thank you!
