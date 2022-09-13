@@ -8,8 +8,30 @@ jobs:
   automate-issues-labels:
     runs-on: ubuntu-latest
     steps:
-      - name: initial labeling
+      - name: Set initial labeling
         uses: andymckay/labeler@master
         with:
           add-labels: "Grant Status: (a) Application On Deck" # Replaced labels "Application Phase, Initial Review in Progress"
           repo-token: "${{ secrets.GH_TOKEN }}"
+
+#      Get date in YYYY-MM-DD format
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+#      From 9/12 until 11/7 set cohort 19-20
+      - name: Set Cohort labeling
+        uses: andymckay/labeler@master
+        if: ${{ steps.date.outputs.date }} >= "2022-09-12"
+        with:
+          add-labels: "Grant Cohort: 19-20"
+          repo-token: "${{ secrets.GH_TOKEN }}"
+
+#     From 11/7 until 1/6 set cohort 21
+      - name: Set Cohort labeling
+        uses: andymckay/labeler@master
+        if: ${{ steps.date.outputs.date }} >= "2022-11-07" 
+        with:
+          add-labels: "Grant Cohort: 21"
+          repo-token: "${{ secrets.GH_TOKEN }}"
+
