@@ -23,7 +23,7 @@ jobs:
 #      From 9/12 until 11/7 set label cohort 19-20
       - name: Set Cohort labeling
         uses: andymckay/labeler@master
-        if: ${{ (steps.date.outputs.date >= "2022-09-12") }} 
+        if: "${{ steps.date.outputs.date >= '2022-09-12' }}"
         with:
           add-labels: "Grant Cohort: 19-20"
           repo-token: "${{ secrets.GH_TOKEN }}"
@@ -35,4 +35,3 @@ jobs:
 #        with:
 #          add-labels: "Grant Cohort: 21"
 #          repo-token: "${{ secrets.GH_TOKEN }}"
-
