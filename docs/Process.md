@@ -33,11 +33,7 @@ The Final Deliverable Phase works just like a Milestone Phase. At the conclusion
 <br/>
 
 ### Application Review Phase Schedule
-Applications are reviewed in **Groups**.  Groups are broken up into two types: 
-- Applications (under) <$25k
-- Applications (over) >$25k
-
-Each Group consists of four **Sections**:
+Applications are reviewed in **Cohorts**. Each Cohort consists of four **Sections**:
 -   **A** : Applications Open
 -   **B** : Applications Close
 -   **C** : Application Review Committee (2 weeks)
@@ -58,8 +54,8 @@ Please note:
 
 <br/>
 
-| **Application Group** | **A** Date | **B** Date  | **C** Date | **D** Date  | 
-| :--: | :--:| :--:| :--:| :--:| 
+| **Cohort** | **A** Date | **B** Date  | **C** Date | **D** Date  | 
+| :-- | :--:| :--:| :--:| :--:| 
 | **Q3-A**     | n/a | n/a | n/a | n/a
 | **Q3-B**     | 8/8/2022 | 9/03/2022 | 9/04/2022 | 9/23/2022
 | **Q4-A**     | 9/11/2022 | 10/22/2022 | 10/23/2022 | 11/11/2022 
