@@ -53,7 +53,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-governance.png?s=50" width="250">
 
 - [Stacks Governance Resources](https://github.com/stacksgov/resources#stacks-governance---resources)
-- [Stacks Improvement Proposals](b.com/stacksgov/sips#stacks-improvement-proposals-sips)
+- [Stacks Improvement Proposals](https://github.com/stacksgov/sips#stacks-improvement-proposals-sips)
 - [Stacks Residence Program](https://github.com/stacksgov/residence-program)
 
 <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-foundation.png?s=50" width="250">
