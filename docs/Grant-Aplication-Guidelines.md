@@ -1,15 +1,20 @@
+# Grant Requirements
 
+<<<<<<< Updated upstream:docs/Grant-Aplication-Guidelines.md
 - [Grant Requirements](#grant-requirements)
   - [Grant Application Expectations](#grant-application-expectations)
   - [Grant Application Suggestions](#grant-application-suggestions)
   - [Great Lead Responsibilities](#great-lead-responsibilities)
 ----
+=======
+>>>>>>> Stashed changes:docs/03-Grant-Aplication-Guidelines.md
 
-# Grant Requirements
+</br>
 
+## Grant Application Basics
 
 - All code produced as part of a grant funded by the Stacks Foundation must be **open-sourced**, and it must also not rely on closed-source software for full functionality. **We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.**
-- Individuals and teams must finish one grant before applying for another one.
+- Individuals and teams are only able to have one form of Stacks Foundation-funded financial support (grants, etc) active at any one time.
 - Only repeat grantees are allowed to apply for grants over $25k.
 - Lastly, we do not fund grants that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
 
@@ -26,6 +31,9 @@ We expect all applications to:
 - Demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources or an existing business model.
 - Demonstrate **proven experience** with the relevant languages and technologies and/or a strong technical background. You will be asked to provide the GitHub profiles of your team members as part of your application, which we will examine for past activity and code quality. You will also have the ability to link to projects on other platforms in your application.
 - Clearly show how your project stands out among competitors or implements technology that is **new and novel** to the ecosystem yet. It is appreciated if you cite and/or link to other Stacks Foundation grants that may be of similar or complimentary scope to help make your argument.
+
+
+</br>
 
 ## Grant Application Suggestions
 
@@ -67,4 +75,10 @@ When you submit an application, you are considered the applicant or Grant Lead. 
 
 </br>
 
+<<<<<<< Updated upstream:docs/Grant-Aplication-Guidelines.md
 Continue to [Funding Streams Details](Funding-Streams-Details)
+=======
+### Continue to:<!-- omit in toc -->
+---
+[Deliverable Delivery Guidelines](04-Deliverable-Delivery-Guidelines)
+>>>>>>> Stashed changes:docs/03-Grant-Aplication-Guidelines.md

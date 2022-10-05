@@ -14,7 +14,6 @@
 |                              | Wishlist Grants                     | (Varies)   |                     [details](#wishlist-grants) |
 | **Advanced Support**         |                                     |            |
 |                              | Stacks Foundation Resident Program  | (Varies)   |  [details](#stacks-foundation-resident-program) |
-|                              | Stacks Foundation Direct Investment | (Varies)   | [details](#stacks-foundation-direct-investment) |
 | **Ecosystem Partner Grants** |                                     |            |
 |                              | ALEX Lab Foundation Grant                   | (Varies)   |                     [details](#alex-lab-foundation-grant) |
 | **Affiliated Organizations** |                                     |            |
@@ -31,13 +30,13 @@
 
 ### Open Source Dev, First-time Grant
 
-This is the best place for developers new to the Stacks Foundation grant process to start.  Funding for new and novel, technology-rich grants available from $0 to $25k.
+If this is your first grant with the Stacks Foundation and your project is software or research driven, you must complete a First-time Grant grant before applying for any funding exceeding $25k.  All applications must focus on new and novel, high-impact technology that strengthens the Stacks network.  Funding available from $0 to $25k.
 
 </br>
 
 ### Open Source Dev, Repeat / Follow-up Grant
 
-Once you have an Open Source Dev, First-time Grant under your belt, we encourage developers to apply for an Open Source Dev, Repeat / Follow-up Grant.  Having a relationship with a developer, a team, and/or a project provides opportunities for increased funding.  Grants available from $25k to $250k.
+Only once you have an Open Source Dev, First-time Grant under your belt are you able to apply for an Open Source Dev, Repeat / Follow-up Grant.  Having a relationship with a developer, a team, and/or a project provides opportunities for increased funding.  Grants available from $25k to $250k.
 
 </br>
 
@@ -74,7 +73,7 @@ The Chapters Program supports community leaders around the world in onboarding m
 ---
 
 <i>Wishlist Grants are a set of ideas put forth by the community to be listed as a sort of bounty grant for teams to apply for and build out for the community.  We (the Stacks Foundation) consider Wishlist Grants to be a top priority and hope to have 50% of all grants awarded be for high-impact, community-suggested Wishlist Grants within the next 6 months.</i>
-- ### [Wishlist Grants Available](https://github.com/stacksgov/Stacks-Grants-Launchpad/projects/3)
+- ### Available Wishlist Grants Coming Soon!
 
 - ### Wishlist Idea Submission Process
   >You can submit ideas for the Wishlist that the community can then discuss. A submission for an idea doesn't need to be a fully fledged concept to be posted. </br>
@@ -91,17 +90,6 @@ The Chapters Program supports community leaders around the world in onboarding m
 ### Stacks Foundation Residence Program
 
 The Residance program aims to create opportunities for leaders and teams to continue to build out the Stacks Ecosystem as subject matter experts. Our first cohort of residents is focused on key areas of the ecosystem, including governance, DAOs, token community management, NFTs, and Stacking. Below is an update from each resident and their respective projects.</br>[Learn More](https://stacks.org/introducing-stacks-residents).  We (the Stacks Foundation) treat the selection of Residents with the highest level of scrutiny and suggest applying for other grants prior to applying for a Residency. Residents are expected to produce code, tooling, resources, etc that enable to Stacks ecosystem to benefit from their contributions long after the conclusion of their Residency.
-
-</br>
-
-### Stacks Foundation Direct Investment
-
-When a builder or team is working on a project that is either:
-- Not open-source
-- Has received other forms of funding (Stacks Foundation provided or otherwise)
-- Has found product-market fit, but has yet to fundraise
-
-We (the Stacks Foundation) is open to considering Direct Investment in the form of a SAFE (Simple Agreement for Future Equity) note.  
 
 </br>
 
@@ -156,4 +144,10 @@ https://clarity-lang.org/universe
 
 </br>
 
+<<<<<<< Updated upstream:docs/Funding-Stream-Details.md
 Continue to [Frequently Asked Questsions](Frequently-Asked-Questsions)
+=======
+### Continue to:<!-- omit in toc -->
+---
+[Grant Application Guidelines](03-Grant-Application-Guidelines)
+>>>>>>> Stashed changes:docs/02-Funding-Stream-Details.md

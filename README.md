@@ -61,3 +61,13 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
+<<<<<<< Updated upstream
+=======
+
+
+</br>
+
+### Continue to:<!-- omit in toc -->
+---
+[Grant Process](Process)
+>>>>>>> Stashed changes

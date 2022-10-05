@@ -1,3 +1,15 @@
+<<<<<<< Updated upstream:docs/Frequently-Asked-Questions.md
+=======
+# Frequently Asked Questions <!-- omit in toc -->
+
+<br/>
+
+>Page under construction
+
+</br>
+
+<!---
+>>>>>>> Stashed changes:docs/07-Frequently-Asked-Questions.md
 
 - [General](#general)
   - [Does a project need to be open-source to receive grant funding?](#does-a-project-need-to-be-open-source-to-receive-grant-funding)
@@ -184,10 +196,9 @@ All rejecections will include feedback from the Review Committee, if there are a
 
 Glad you asked!  Please email grants@stacks.org with the subjectline "Request to join Grant Review Committee".
 
-<!---### Who is on the application review committee?
+<!---### Who is on the application review committee?-->
 
-????????????
-Team (Will, Jenny, Shakti, Adam, Shannon, Kenny, Review Committee) -->
+<!--- 
 
 </br>
 
@@ -302,4 +313,12 @@ You may apply for a new grant for a separate project immediately upon completion
 </br>
 
 
+<<<<<<< Updated upstream:docs/Frequently-Asked-Questions.md
 Visit the [Discussion Section](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions) for any additional help.
+=======
+--->
+
+### Continue to:<!-- omit in toc -->
+---
+[Discussion Section](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
+>>>>>>> Stashed changes:docs/07-Frequently-Asked-Questions.md

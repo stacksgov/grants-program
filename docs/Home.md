@@ -72,3 +72,13 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
+<<<<<<< Updated upstream:docs/Home.md
+=======
+
+
+</br>
+
+### Continue to:<!-- omit in toc -->
+---
+[Grant Process and Payments](01-Grant-Process-and-Payments)
+>>>>>>> Stashed changes:docs/00-Home.md
