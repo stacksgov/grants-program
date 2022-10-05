@@ -1,6 +1,6 @@
-# Grants Terms and Conditions<!-- omit in toc -->
----
+# Grant Terms and Conditions<!-- omit in toc -->
 
+<br/>
 
 - [1.  Introduction](#1--introduction)
 - [2.  Defined Terms](#2--defined-terms)
@@ -25,7 +25,6 @@
 - [19.  Modification of Grant Terms](#19--modification-of-grant-terms)
 
 
-<br/>
 <br/>
 
 
@@ -348,3 +347,8 @@ If any term, clause or provision of these Grant Terms is held unlawful, void or 
 ## 19.  Modification of Grant Terms
 We have the right to modify these Grant Terms if we reasonably believe that such modifications are necessary to comply with applicable laws or regulations or to address technical inaccuracies. If we make changes, we will provide notice to you via email to the email address you provide during Registration. The amended Grant Terms will be effective immediately, and your continued use or holding of Grant Amount(s) or any portion thereof you accepted as Stacks Open Internet Foundation Grant Program shall constitute your acceptance of the modified Grant Terms. 
 
+</br>
+
+### Continue to:<!-- omit in toc -->
+---
+[Frequently Asked Questions](07-Frequently-Asked-Questions)

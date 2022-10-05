@@ -156,4 +156,6 @@ https://clarity-lang.org/universe
 
 </br>
 
-Continue to [Frequently Asked Questsions](Frequently-Asked-Questsions)
+### Continue to:
+---
+[Grant Application Guidelines](03-Grant-Application-Guidelines)

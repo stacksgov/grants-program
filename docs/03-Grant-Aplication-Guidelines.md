@@ -3,6 +3,7 @@
   - [Grant Application Expectations](#grant-application-expectations)
   - [Grant Application Suggestions](#grant-application-suggestions)
   - [Great Lead Responsibilities](#great-lead-responsibilities)
+  - [### Continue to:](#-continue-to)
 ----
 
 # Grant Requirements
@@ -67,4 +68,6 @@ When you submit an application, you are considered the applicant or Grant Lead. 
 
 </br>
 
-Continue to [Funding Streams Details](Funding-Streams-Details)
+### Continue to:
+---
+[Deliverable Delivery Guidelines](04-Deliverable-Delivery-Guidelines)

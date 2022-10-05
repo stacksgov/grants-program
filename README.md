@@ -16,9 +16,18 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/map.png" style="width:1300px";>
 </p>
 
-## Additional Resources
+</br>
+
+## Application Submission
 
 - The only way to submit a new application: [Stacks Foundation Grant Launchpad](https://grants.stacks.org)
+  - Feel free to use this [Grant Application Template](https://docs.google.com/document/d/117na9RI1bZvo4XzyQIvET07Oe8HSVpcaBTkWdtOp-Zk/edit?usp=sharing) to develop your application before submitting via the Launchpad.
+- We also LOVE Wishlist submissions.  Those can also be submitted through: [Stacks Foundation Grant Launchpad](https://grants.stacks.org)
+  - Feel free to use this [Wishlist Application Template](https://docs.google.com/document/d/1nMWXw8Efi9X2DkmatmpjWrRFrgoh-s9T1I0yzug3G6k/edit?usp=sharing) to develop your Wishlist idea before submitting it via the Launchpad.
+
+</br>
+
+## Additional Resources
 - Research and review all previously submitted application: [Grant Applications](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues)
 - Check out the Kanban board to see the entire application queue: [Grants Project Board](https://github.com/stacksgov/Stacks-Grant-Launchpad/projects/3)
 - Ask questions about the process and/or your grant idea: [Discussion Forums](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
@@ -30,13 +39,9 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
   - [Wishlist Ideas](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/wishlist-ideas)
   - [Launchpad Issues](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/launchpad-issues)
 
-- Receive a payment and want to verify the USD to STX conversion?: [STX Converter](https://grants.stacks.org/stacks-payment-converter)
-- Want to do some research or auditing of applications by type?: [Project  Data Exporter](https://grants.stacks.org/grant-data-exporter)
-- Applications submitted, approved, and completed between 4/20/2022 and 8/5/2022 can be found [here](https://grantsdashboard.stacks.org/grants).  
-
 </br>
 
-### Stacks Community Channels
+## Stacks Community Channels
 </br>
 
 | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/web.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/discord.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/twitter.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/blog.png?s=50" width="50"> |
@@ -53,11 +58,18 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-governance.png?s=50" width="250">
 
 - [Stacks Governance Resources](https://github.com/stacksgov/resources#stacks-governance---resources)
-- [Stacks Improvment Proposals](b.com/stacksgov/sips#stacks-improvement-proposals-sips)
-- [Stacks Residence Program](https://github.com/stacksgov/residence-program)
+- [Stacks Improvment Proposals](https://github.com/stacksgov/sips)
+- [Stacks Docs](https://docs.stacks.co/docs/intro)
 
 <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-foundation.png?s=50" width="250">
   
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
+
+
+</br>
+
+### Continue to:
+---
+[Grant Process](Process)
