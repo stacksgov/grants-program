@@ -1,4 +1,11 @@
-# Milestone & Final Deliverable Delivery Guidelines
+# Deliverable Delivery Guidelines
+
+>PAGE UNDER CONSTRUCTION
+---
+
+<br/>
+
+<!---
 
 These are the guidelines to be followed for milestone and final deliverables submitted for evaluation.
 
@@ -106,6 +113,8 @@ Please ensure the repo has the correct open-source license.
 Please add any additional comments that you consider relevant for the evaluation.
 
 </br>
+
+--->
 
 ### Continue to:
 ---

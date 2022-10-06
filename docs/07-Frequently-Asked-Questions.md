@@ -1,5 +1,11 @@
 # Frequently Asked Questions <!-- omit in toc -->
 
+>PAGE UNDER CONSTRUCTION
+---
+<br/>
+
+<!---
+
 <br/>
 
 
@@ -188,10 +194,9 @@ All rejecections will include feedback from the Review Committee, if there are a
 
 Glad you asked!  Please email grants@stacks.org with the subjectline "Request to join Grant Review Committee".
 
-<!---### Who is on the application review committee?
+<!---### Who is on the application review committee?-->
 
-????????????
-Team (Will, Jenny, Shakti, Adam, Shannon, Kenny, Review Committee) -->
+<!---
 
 </br>
 
@@ -305,6 +310,8 @@ You may apply for a new grant for a separate project immediately upon completion
 
 
 </br>
+
+--->
 
 ### Continue to:
 ---

@@ -1,14 +1,21 @@
 # Stacks Grant Launchpad<!-- omit in toc -->
 
+>PAGE UNDER CONSTRUCTION
+---
+
 <p align="center">
   <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/header.png" style="width:1300px";>
 </p>
 
 ---
 
+</br>
+
 ## Introduction
 
 As part of our commitment to promoting a user-owned internet, The Stacks Open Internet Foundation (aka Stacks Foundation) provides support for developers, designers, community leaders, and more through various types of grants.  Grant Types are organized by Funding Streams.  Grant Types consist of milestone-driven grants, community-support grants, residencies for subject matter experts, and various other forms of support.  While grants funded through our programs are broad in scope, the core mission of the Stacks Foundation is to fund software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf).  We prioritize funding strong **technical** projects that add _immediate and widespread value_ to the Stacks ecosystem. Anyone is welcome to submit a project application.
+
+<!---
 
 <b>Visit the [Grants Process](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process) in the Wiki for detailed information on the entire process.</b>
 
@@ -67,8 +74,11 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
 
+--->
 
 </br>
+
+
 
 ### Continue to:
 ---

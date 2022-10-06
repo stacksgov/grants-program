@@ -1,13 +1,19 @@
-## Grant Process
+# Grant Process
+
+>PAGE UNDER CONSTRUCTION
 ---
 
 <br/>
 
-### Grant Phases & Associated Payments
+<!---
+
+
+## Grant Phases & Associated Payments
+---
 
 <br/>
 
-#### A. Application Review Phase
+### A. Application Review Phase
 > Before submitting an application read this document in its entirety, study grant applications with a similar mission in the [Stacks Grant Launchpad](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues) repo, and build a relationship with the Stacks community by commenting on open and/or previous grant application on the Stacks Discord server.
   
 The Application Phase consists of the following steps:
@@ -22,7 +28,7 @@ The Application Phase consists of the following steps:
 
 <br/>
 
-#### B. Onboarding Phase
+### B. Onboarding Phase
 The Onboarding Phase consists of the following steps:
 - After your grant is approved, you will be invited to a kickoff meeting.  After this meeting all applicants will begin the onboarding process, which involves submitting personal information for KYC and contract execution purposes.  
 - Once your contract has been successfully executed your initial payment is disbursed and you are free to begin working on your project.
@@ -30,7 +36,7 @@ The Onboarding Phase consists of the following steps:
 
 <br/>
 
-#### C. Milestone Phase
+### C. Milestone Phase
 Depending on the size of your project budget you may either skip this step, or repeat it several times (see this [chart] for details), but in general, a Milestone Phase consists of:
 - Post a link to the completed work and request a review by commenting on your Github issue.  
 - Allow the Stacks community an opportunity to review and comment on your work verifying it is done as outlined in the project application.  
@@ -39,12 +45,12 @@ Depending on the size of your project budget you may either skip this step, or r
 
 <br/>
 
-#### D. Final Deliverable Phase
+### D. Final Deliverable Phase
 The Final Deliverable Phase works just like a Milestone Phase. At the conclusion of this phase you will be awarded your final payment.
   
 <br/>
 
-### Application Review Phase Schedule
+## Application Review Phase Schedule
 Applications are reviewed in **Cohorts**. Each Cohort consists of four **Sections**:
 -   **A** : Applications Open
 -   **B** : Applications Close
@@ -76,6 +82,38 @@ Please note:
 | **Cohort 23**     | 08/26/2023 | 12/01/2023 | 12/02/2023 | 12/22/2023 
 
 </br>
+
+## Payments
+---
+
+</br>
+
+### Payment Quantity, Milestone Quantity, & Payment Sizing
+
+</br>
+
+| **PROJECT BUDGET** | **NUMBER OF PAYMENTS** |  **NUMBER OF MILESTONES** | **% OF BUDGET PER PAYMENT** 
+| :-- | :--:| :--:| --:
+| $0 to $9,999 | 2 | 0 | 50% 
+| $10k to $24,999 | 3 | 1 | 33.3% 
+| $25k to $59,999 | 4 | 2 | 25% 
+| $60k to $99,999 | 5 | 3 | 20% 
+| $100k to $149,999 | 6 | 4 | 16.6% 
+| $150k to $250k | 8 | 6 | 12.5% 
+| Residents, Chapters, Direct Investments over $250k | 12 | 10 | 8.3% 
+|
+
+</br>
+
+### Payment Notes
+1. Please note that while the total project budget is requested for in U.S. Dollars (USD) all payments are made in Stacks (STX).
+2. The quantity of STX disbursed with each payment is calculated using a 7-day trailing average from the time each payment is approved. Quantities can be confirmed [here](link) 
+3. All payments are disbursed at the successful **conclusion** of each project phase, as outlined [here](link). 
+4. All payments will be disbursed within 20 days of each successfully completed project phase.
+
+</br>
+
+--->
 
 ### Continue to:
 ---

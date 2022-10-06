@@ -1,7 +1,7 @@
 # Grant Terms and Conditions<!-- omit in toc -->
 
-<br/>
-
+>UPDATED OCTOBER 2022
+---
 - [1.  Introduction](#1--introduction)
 - [2.  Defined Terms](#2--defined-terms)
 - [3.  Eligibility](#3--eligibility)
@@ -24,23 +24,15 @@
 - [18.  Severability](#18--severability)
 - [19.  Modification of Grant Terms](#19--modification-of-grant-terms)
 
-
 <br/>
 
+>By participating in the Stacks Open Internet Foundation Grant Program, you acknowledge and accept the​ terms and conditions​ of the Stacks Open Internet Foundation for the grant application (the "Terms and Conditions", the "Grant Terms", or the “Agreement”).
 
-Updated October 2022
+>These Terms and Conditions are entered into by and between the Stacks Open Internet Foundation (henceforth "We" or "the Foundation") and you as an applicant for the technical grant for software development, research and/or the production of software documentation and technical education material as specified in Guidelines for Stacks Foundation projects (henceforth "You" or “Grantee”) (each also a "Party" and together the "Parties"). Please read these Terms and Conditions carefully. By completing a project application on grants.stacks.org, You confirm that You have read these Terms and Conditions and that You agree to be bound by them.
 
-* * * * *
+>Your acceptance of Stacks Open Internet Foundation Grant Program from us is subject to these Grant Terms (“Grant Terms”). By accepting Stacks Open Internet Foundation Grant Program from us, you will be bound by these Grant Terms and all terms incorporated by reference. If you have any questions regarding these Grant Terms, please contact us at grants@stacks.org.
 
-By participating in the Stacks Open Internet Foundation Grant Program, you acknowledge and accept the​ terms and conditions​ of the Stacks Open Internet Foundation for the grant application (the "Terms and Conditions", the "Grant Terms", or the “Agreement”).
-
-* * * * *
-
-These Terms and Conditions are entered into by and between the Stacks Open Internet Foundation (henceforth "We" or "the Foundation") and you as an applicant for the technical grant for software development, research and/or the production of software documentation and technical education material as specified in Guidelines for Stacks Foundation projects (henceforth "You" or “Grantee”) (each also a "Party" and together the "Parties"). Please read these Terms and Conditions carefully. By completing a project application on grants.stacks.org, You confirm that You have read these Terms and Conditions and that You agree to be bound by them.
-
-Your acceptance of Stacks Open Internet Foundation Grant Program from us is subject to these Grant Terms (“Grant Terms”). By accepting Stacks Open Internet Foundation Grant Program from us, you will be bound by these Grant Terms and all terms incorporated by reference. If you have any questions regarding these Grant Terms, please contact us at grants@stacks.org.
-
-We reserve the right to change, modify, add or remove portions of these Terms and Conditions from time to time. If this occurs, We will notify You in adequate form of such updates.
+>We reserve the right to change, modify, add or remove portions of these Terms and Conditions from time to time. If this occurs, We will notify You in adequate form of such updates.
 
 <br/>
 

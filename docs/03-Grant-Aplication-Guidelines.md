@@ -1,13 +1,11 @@
+# Grant Application Guidelines
 
-- [Grant Requirements](#grant-requirements)
-  - [Grant Application Expectations](#grant-application-expectations)
-  - [Grant Application Suggestions](#grant-application-suggestions)
-  - [Great Lead Responsibilities](#great-lead-responsibilities)
-  - [### Continue to:](#-continue-to)
-----
+>PAGE UNDER CONSTRUCTION
+---
 
-# Grant Requirements
+<br/>
 
+<!---
 
 - All code produced as part of a grant funded by the Stacks Foundation must be **open-sourced**, and it must also not rely on closed-source software for full functionality. **We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.**
 - Individuals and teams must finish one grant before applying for another one.
@@ -67,6 +65,8 @@ When you submit an application, you are considered the applicant or Grant Lead. 
 - Additionally, this address will be the sole wallet to receive funds for the grant.
 
 </br>
+
+--->
 
 ### Continue to:
 ---
