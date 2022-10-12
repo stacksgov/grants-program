@@ -1,27 +1,30 @@
->PAGE UNDER CONSTRUCTION
+>PAGE UPDATED OCTOBER 2022
 
 <br/>
-
-<!---
 
 - All code produced as part of a grant funded by the Stacks Foundation must be **open-sourced**, and it must also not rely on closed-source software for full functionality. **We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.**
 - Individuals and teams must finish one grant before applying for another one.
 - Only repeat grantees are allowed to apply for grants over $25k.
+- Applicants must be 18 years of age or older.
 - Lastly, we do not fund grants that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
 
-In addition to the information provided on your application, note that all deliverables associated with your grant will need to comply with our [Milestone & Final Deliverable Delivery Guidelines](link)
+In addition to the information provided on your application, note that all deliverables associated with your grant will need to comply with our [Deliverable Delivery Guidelines](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Deliverable-Delivery-Guidelines).
 
 Finally, we take licensing and the right of all teams in and outside the ecosystem to be recognized for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery **will lead to immediate termination**. Please reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
+
+<br/>
 
 ## Grant Application Expectations
 
 We expect all applications to:
 
 - Be **rich in technical details** and be well-defined.
-- Present a **well-researched** or tested concept, for which ideally you are able to show some prior work.
+- Present a **well-researched** or tested concept, for which (ideally) you are able to show some prior work.
 - Demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources or an existing business model.
 - Demonstrate **proven experience** with the relevant languages and technologies and/or a strong technical background. You will be asked to provide the GitHub profiles of your team members as part of your application, which we will examine for past activity and code quality. You will also have the ability to link to projects on other platforms in your application.
 - Clearly show how your project stands out among competitors or implements technology that is **new and novel** to the ecosystem yet. It is appreciated if you cite and/or link to other Stacks Foundation grants that may be of similar or complimentary scope to help make your argument.
+
+<br/>
 
 ## Grant Application Suggestions
 
@@ -51,7 +54,6 @@ Before submitting your application, ask yourself the following questions:
 
 ## Great Lead Responsibilities
 
----
 
 When you submit an application, you are considered the applicant or Grant Lead. Before you submit, its worth better understanding the responsiblities that come with that role:
 
@@ -62,8 +64,6 @@ When you submit an application, you are considered the applicant or Grant Lead. 
 - Additionally, this address will be the sole wallet to receive funds for the grant.
 
 </br>
-
---->
 
 ### Continue to:
 ---
