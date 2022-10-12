@@ -1,34 +1,32 @@
 # Grant Types <!-- omit in toc -->
 
->PAGE UNDER CONSTRUCTION
+>PAGE UPDATED OCTOBER 2022
 ---
 
 <br/>
 
-<!---
-
-| FUNDING STREAMS              | GRANT TYPE                        | MAX $      |                                         DETAILS |
-| ---------------------------- | :---------------------------------- | :--------- | ----------------------------------------------: |
+| FUNDING STREAMS              | GRANT TYPE                        | MAX $      |                                         DETAILS 
+| ---------------------------- | :---------------------------------- | :--------- | ----------------------------------------------: 
 | **Developer Grants**         |                                     |
-|                              | Open Source Dev, First-time Grant          | ($0-25k)   |           [details](#open-source-dev-first-time-grant) |
-|                              | Open Source Dev, Repeat / Follow-up Grant         | ($25-250k) |           [details](#open-source-dev-repeat-grant) |
+|                              | Open Source Dev, First-time Grant          | ($0-25k)   |           [details](#open-source-dev-first-time-grant) 
+|                              | Open Source Dev, Repeat Grant         | ($25-250k) |           [details](#open-source-dev-repeat-grant) 
 | **Community Grants**         |                                     |            |
-|                              | Stacks Community Builder Grant      | ($0-10k)   |      [details](#stacks-community-builder-grant) |
-|                              | Stacks Education Grant              | ($0-10k)   |              [details](#stacks-education-grant) |
-|                              | Stacks Event Grant                  | ($0-10k)   |                  [details](#stacks-event-grant) |
-|                              | Stacks Chapter Grant (by Region)    | (Varies)   |      [details](#stacks-chapter-grant-by-region) |
+|                              | Stacks Community Builder Grant      | ($0-10k)   |      [details](#stacks-community-builder-grant) 
+|                              | Stacks Education Grant              | ($0-10k)   |              [details](#stacks-education-grant) 
+|                              | Stacks Event Grant                  | ($0-10k)   |                  [details](#stacks-event-grant) 
+|                              | Stacks Chapter Grant (by Region)    | (Varies)   |      [details](#stacks-chapter-grant-by-region) 
 | **Wishlist Grants**          |                                     |            |
-|                              | Wishlist Grants                     | (Varies)   |                     [details](#wishlist-grants) |
+|                              | Wishlist Grants                     | (Varies)   |                     [details](#wishlist-grants) 
 | **Advanced Support**         |                                     |            |
-|                              | Stacks Foundation Resident Program  | (Varies)   |  [details](#stacks-foundation-resident-program) |
-|                              | Stacks Foundation Direct Investment | (Varies)   | [details](#stacks-foundation-direct-investment) |
+|                              | Stacks Foundation Resident Program  | (Varies)   |  [details](#stacks-foundation-resident-program) 
+|                              | Stacks Foundation Direct Investment | (Varies)   | [details](#stacks-foundation-direct-investment) 
 | **Ecosystem Partner Grants** |                                     |            |
-|                              | ALEX Lab Foundation Grant                   | (Varies)   |                     [details](#alex-lab-foundation-grant) |
+|                              | ALEX Lab Foundation Grant                   | (Varies)   |                     [details](#alex-lab-foundation-grant) 
 | **Affiliated Organizations** |                                     |            |
-|                              | Stacks Web3 Startup Lab             | (Varies)   |             [details](#stacks-web3-startup-lab) |
-|                              | Stacks Accelerator                  | (Varies)   |                  [details](#stacks-accelerator) |
-|                              | The Mintery             | (Varies)   |             [details](#the-mintery) |
-|                              | Bitcoin Odyssey                  | (Varies)   |                  [details](#the-bitcoin-odyssey) |
+|                              | Stacks Web3 Startup Lab             | (Varies)   |             [details](#stacks-web3-startup-lab) 
+|                              | Stacks Accelerator                  | (Varies)   |                  [details](#stacks-accelerator) 
+|                              | The Mintery             | (Varies)   |             [details](#the-mintery) 
+|                              | Bitcoin Odyssey                  | (Varies)   |                  [details](#the-bitcoin-odyssey) 
 |                              |                                     |
 
 
@@ -41,13 +39,13 @@
 
 ### Open Source Dev, First-time Grant
 
-This is the best place for developers new to the Stacks Foundation grant process to start.  Funding for new and novel, technology-rich grants available from $0 to $25k.
+This is the best place for developers new to the Stacks Foundation grant process to begin their journey.  Funding for new and novel, technology-rich grants available from $0 to $25k.
 
 </br>
 
 ### Open Source Dev, Repeat / Follow-up Grant
 
-Once you have an Open Source Dev, First-time Grant under your belt, we encourage developers to apply for an Open Source Dev, Repeat / Follow-up Grant.  Having a relationship with a developer, a team, and/or a project provides opportunities for increased funding.  Grants available from $25k to $250k.
+Having an established and proven relationship with a developer, a team, and/or a project provides opportunities for increased funding. Once you successfully complete an Open Source Dev, First-time Grant, you are eligible to apply for an Open Source Dev, Repeat Grant. Grants available from $25k to $250k.
 
 </br>
 
@@ -58,7 +56,7 @@ Once you have an Open Source Dev, First-time Grant under your belt, we encourage
 
 ### Stacks Community Builder Grant
 
-This is a great place for individuals or teams looking to champion community building efforts to start.  Funding available from $0 to $10k.
+This is a great place for individuals or teams looking to champion community building efforts to start.  Funding available for all *non-technical* grant projects from $0 to $10k.
 
 </br>
 
@@ -90,7 +88,7 @@ The Chapters Program supports community leaders around the world in onboarding m
 - ### Wishlist Idea Submission Process
   >You can submit ideas for the Wishlist that the community can then discuss. A submission for an idea doesn't need to be a fully fledged concept to be posted. </br>
   [Submit Ideas Here](https://grants.stacks.org/)</br>
-  [Join the conversation](https://github.com/stacksgov/Stacks-Grants-Launchpad/discussions/categories/ideas)
+  [Join the conversation](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/wishlist-ideas)
 
 </br>
 
@@ -157,8 +155,6 @@ Clarity Universe is the hub for all things related to learning Clarity, the most
 https://clarity-lang.org/universe
 
 </br>
-
---->
 
 ### Continue to:
 ---

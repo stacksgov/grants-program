@@ -1,6 +1,6 @@
 # Grant Terms and Conditions<!-- omit in toc -->
 
->UPDATED OCTOBER 2022
+>PAGE UPDATED OCTOBER 2022
 ---
 - [1.  Introduction](#1--introduction)
 - [2.  Defined Terms](#2--defined-terms)

@@ -1,12 +1,9 @@
 # Grant Process
 
->PAGE UNDER CONSTRUCTION
+>PAGE UPDATED OCTOBER 2022
 ---
 
 <br/>
-
-<!---
-
 
 ## Grant Phases & Associated Payments
 ---
@@ -37,16 +34,12 @@ The Onboarding Phase consists of the following steps:
 <br/>
 
 ### C. Milestone Phase
-Depending on the size of your project budget you may either skip this step, or repeat it several times (see this [chart] for details), but in general, a Milestone Phase consists of:
-- Post a link to the completed work and request a review by commenting on your Github issue.  
-- Allow the Stacks community an opportunity to review and comment on your work verifying it is done as outlined in the project application.  
-- Once it is determined the work matches the approved project application your Milestone Payment will be disbursed. 
-- In total, this process will take 1-3 weeks.
+Depending on the size of your project budget you may either skip this step, or repeat it several times (see this [chart](#payment-quantity-milestone-quantity--payment-sizing) for details). Please review [Deliverable Delivery Guidelines](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Deliverable-Delivery-Guidelines) for additional details.
 
 <br/>
 
 ### D. Final Deliverable Phase
-The Final Deliverable Phase works just like a Milestone Phase. At the conclusion of this phase you will be awarded your final payment.
+The Final Deliverable Phase works just like a Milestone Phase. At the conclusion of this phase you will be awarded your final payment. Please review [Deliverable Delivery Guidelines](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Deliverable-Delivery-Guidelines) for additional details.
   
 <br/>
 
@@ -54,8 +47,8 @@ The Final Deliverable Phase works just like a Milestone Phase. At the conclusion
 Applications are reviewed in **Cohorts**. Each Cohort consists of four **Sections**:
 -   **A** : Applications Open
 -   **B** : Applications Close
--   **C** : Application Review Committee (2 weeks)
--   **D** : Final Decisions & Recap Meeting (1 week)
+-   **C** : Grant Review Committee (2 weeks)
+-   **D** : Final Decisions & Determinations Announced (1 week)
   
 <br/>
 
@@ -73,13 +66,15 @@ Please note:
 
 <br/>
 
+>NOTE: All dates below are subject to change
+
+<br/>
+
 | **Cohort** | **A** Date | **B** Date  | **C** Date | **D** Date  | 
 | :-- | :--:| :--:| :--:| :--:| 
-| **Cohort 19**     | 9/12/2022 | 11/04/2022 | 11/05/2022 | 12/16/2022
+| **Cohort 19**     | 09/12/2022 | 11/04/2022 | 11/05/2022 | 11/23/2022 
 | **Cohort 20**     | 11/05/2022 | 02/24/2023 | 02/25/2023 | 03/17/2023 
 | **Cohort 21**     | 02/25/2023 | 05/26/2023 | 05/27/2023 | 06/16/2023 
-| **Cohort 22**     | 05/27/2023 | 08/25/2023 | 08/26/2023 | 09/15/2023 
-| **Cohort 23**     | 08/26/2023 | 12/01/2023 | 12/02/2023 | 12/22/2023 
 
 </br>
 
@@ -100,20 +95,19 @@ Please note:
 | $60k to $99,999 | 5 | 3 | 20% 
 | $100k to $149,999 | 6 | 4 | 16.6% 
 | $150k to $250k | 8 | 6 | 12.5% 
-| Residents, Chapters, Direct Investments over $250k | 12 | 10 | 8.3% 
+| Residents, Chapters | 12 | 10 | varies 
 |
 
 </br>
 
 ### Payment Notes
 1. Please note that while the total project budget is requested for in U.S. Dollars (USD) all payments are made in Stacks (STX).
-2. The quantity of STX disbursed with each payment is calculated using a 7-day trailing average from the time each payment is approved. Quantities can be confirmed [here](link) 
-3. All payments are disbursed at the successful **conclusion** of each project phase, as outlined [here](link). 
+2. The quantity of STX disbursed with each payment is calculated using a 7-day trailing average from the time each payment is approved. Quantities can be confirmed [here](https://grants.stacks.org/stacks-payment-converter). 
+3. All payments are disbursed at the successful **conclusion** of each project phase, as outlined [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Deliverable-Delivery-Guidelines). 
 4. All payments will be disbursed within 20 days of each successfully completed project phase.
 
 </br>
 
---->
 
 ### Continue to:
 ---

@@ -1,6 +1,6 @@
 # Stacks Grant Launchpad<!-- omit in toc -->
 
->PAGE UNDER CONSTRUCTION
+>PAGE UPDATED OCTOBER 2022
 ---
 
 <p align="center">
