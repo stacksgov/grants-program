@@ -4,7 +4,6 @@
 <br/>
 
 ## Grant Phases & Associated Payments
----
 
 <br/>
 
