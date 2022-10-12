@@ -1,7 +1,5 @@
-# Frequently Asked Questions <!-- omit in toc -->
-
 >PAGE UNDER CONSTRUCTION
----
+
 <br/>
 
 <!---

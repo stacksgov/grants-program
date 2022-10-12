@@ -1,7 +1,5 @@
-# Grant Types <!-- omit in toc -->
 
 >PAGE UPDATED OCTOBER 2022
----
 
 <br/>
 

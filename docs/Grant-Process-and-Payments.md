@@ -1,7 +1,5 @@
-# Grant Process
 
 >PAGE UPDATED OCTOBER 2022
----
 
 <br/>
 

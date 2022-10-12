@@ -1,7 +1,4 @@
-# Grant Application Guidelines
-
 >PAGE UNDER CONSTRUCTION
----
 
 <br/>
 

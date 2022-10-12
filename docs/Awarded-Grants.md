@@ -1,7 +1,5 @@
-# Awarded Grants
 
 >PAGE UNDER CONSTRUCTION
----
 
 <br/>
 

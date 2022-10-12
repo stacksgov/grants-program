@@ -1,7 +1,4 @@
-# Deliverable Delivery Guidelines
-
 >PAGE UNDER CONSTRUCTION
----
 
 <br/>
 
