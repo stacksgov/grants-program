@@ -343,4 +343,4 @@ We have the right to modify these Grant Terms if we reasonably believe that such
 
 ### Continue to:<!-- omit in toc -->
 ---
-[Frequently Asked Questions](07-Frequently-Asked-Questions)
+[Frequently Asked Questions](Frequently-Asked-Questions)

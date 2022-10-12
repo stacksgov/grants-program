@@ -82,4 +82,4 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 ### Continue to:
 ---
-[Grant Process and Payments](01-Grant-Process-and-Payments)
+[Grant Process and Payments](Grant-Process-and-Payments)

@@ -18,4 +18,4 @@
 
 ### Continue to:
 ---
-[Terms and Conditions](06-Terms-and-Conditions)
+[Terms and Conditions](Terms-and-Conditions)
