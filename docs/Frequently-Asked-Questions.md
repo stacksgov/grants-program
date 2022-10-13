@@ -18,27 +18,6 @@
   - [**Can I submit a grant for an event sponsorship?**](#can-i-submit-a-grant-for-an-event-sponsorship)
   - [**Can I submit a grant to fund my NFT project development?**](#can-i-submit-a-grant-to-fund-my-nft-project-development)
   - [**Can I subcontract portions of the work described in my application after the application has been accepted?**](#can-i-subcontract-portions-of-the-work-described-in-my-application-after-the-application-has-been-accepted)
-- [### Continue to:](#-continue-to)
-
----
-
-- [## General](#-general)
-  - [**Does a project need to be open-source to receive grant funding?**](#does-a-project-need-to-be-open-source-to-receive-grant-funding)
-  - [**Is there a typical funding range for a certain level of grant type?**](#is-there-a-typical-funding-range-for-a-certain-level-of-grant-type)
-  - [**Can I list the Stacks Foundation as a partner?**](#can-i-list-the-stacks-foundation-as-a-partner)
-  - [**Does the Stacks Foundation help with PR & Marketing of individual Grants?**](#does-the-stacks-foundation-help-with-pr--marketing-of-individual-grants)
-  - [**Can I reuse someone else’s Clarity Contract or any open-source code as a starting point?**](#can-i-reuse-someone-elses-clarity-contract-or-any-open-source-code-as-a-starting-point)
-  - [**A grantee is using my code without respecting the terms of its license.**](#a-grantee-is-using-my-code-without-respecting-the-terms-of-its-license)
-  - [**Does the Grants Team still host an office hours call?**](#does-the-grants-team-still-host-an-office-hours-call)
-- [## Submitting A Grant](#-submitting-a-grant)
-  - [**Can anyone apply?**](#can-anyone-apply)
-  - [**If I am currently enrolled in one of the other Stacks Programs can I still apply for a grant?**](#if-i-am-currently-enrolled-in-one-of-the-other-stacks-programs-can-i-still-apply-for-a-grant)
-  - [**Can I have more than one open grant?**](#can-i-have-more-than-one-open-grant)
-  - [**If you prefer to remain anonymous are you still able to be awarded a grant?**](#if-you-prefer-to-remain-anonymous-are-you-still-able-to-be-awarded-a-grant)
-  - [**Can I submit a grant for an event sponsorship?**](#can-i-submit-a-grant-for-an-event-sponsorship)
-  - [**Can I submit a grant to fund my NFT project development?**](#can-i-submit-a-grant-to-fund-my-nft-project-development)
-  - [**Can I subcontract portions of the work described in my application after the application has been accepted?**](#can-i-subcontract-portions-of-the-work-described-in-my-application-after-the-application-has-been-accepted)
-- [### Continue to:](#-continue-to)
 
 <!---
 
@@ -49,26 +28,6 @@
   - [Is there a general set of review criteria?](#is-there-a-general-set-of-review-criteria)
   - [Why are other grant applications receiving feedback and/or approval before mine?](#why-are-other-grant-applications-receiving-feedback-andor-approval-before-mine)
   - [My Application was rejected. Do you have any recommendations on where to go from here?](#my-application-was-rejected-do-you-have-any-recommendations-on-where-to-go-from-here)
-
----
-
-- [## General](#-general)
-  - [**Does a project need to be open-source to receive grant funding?**](#does-a-project-need-to-be-open-source-to-receive-grant-funding)
-  - [**Is there a typical funding range for a certain level of grant type?**](#is-there-a-typical-funding-range-for-a-certain-level-of-grant-type)
-  - [**Can I list the Stacks Foundation as a partner?**](#can-i-list-the-stacks-foundation-as-a-partner)
-  - [**Does the Stacks Foundation help with PR & Marketing of individual Grants?**](#does-the-stacks-foundation-help-with-pr--marketing-of-individual-grants)
-  - [**Can I reuse someone else’s Clarity Contract or any open-source code as a starting point?**](#can-i-reuse-someone-elses-clarity-contract-or-any-open-source-code-as-a-starting-point)
-  - [**A grantee is using my code without respecting the terms of its license.**](#a-grantee-is-using-my-code-without-respecting-the-terms-of-its-license)
-  - [**Does the Grants Team still host an office hours call?**](#does-the-grants-team-still-host-an-office-hours-call)
-- [## Submitting A Grant](#-submitting-a-grant)
-  - [**Can anyone apply?**](#can-anyone-apply)
-  - [**If I am currently enrolled in one of the other Stacks Programs can I still apply for a grant?**](#if-i-am-currently-enrolled-in-one-of-the-other-stacks-programs-can-i-still-apply-for-a-grant)
-  - [**Can I have more than one open grant?**](#can-i-have-more-than-one-open-grant)
-  - [**If you prefer to remain anonymous are you still able to be awarded a grant?**](#if-you-prefer-to-remain-anonymous-are-you-still-able-to-be-awarded-a-grant)
-  - [**Can I submit a grant for an event sponsorship?**](#can-i-submit-a-grant-for-an-event-sponsorship)
-  - [**Can I submit a grant to fund my NFT project development?**](#can-i-submit-a-grant-to-fund-my-nft-project-development)
-  - [**Can I subcontract portions of the work described in my application after the application has been accepted?**](#can-i-subcontract-portions-of-the-work-described-in-my-application-after-the-application-has-been-accepted)
-- [### Continue to:](#-continue-to)
 
 ---
 
@@ -337,6 +296,6 @@ You may apply for a new grant for a separate project immediately upon completion
 
 --->
 
-### Continue to:
+### Continue to:<!-- omit in toc -->
 ---
 [Discussion Section](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)

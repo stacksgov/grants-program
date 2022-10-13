@@ -5,8 +5,6 @@
 
 ## Grant Phases & Associated Payments
 
-<br/>
-
 ### A. Application Review Phase
 > Before submitting an application read this document in its entirety, study grant applications with a similar mission in the [Stacks Grant Launchpad](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues) repo, and build a relationship with the Stacks community by commenting on open and/or previous grant application on the Stacks Discord server.
   
