@@ -8,7 +8,7 @@ crash.log
 *.so
 *.log
 *.swp
-.DS_Store
+*.DS_Store
 *.pyc
 .gitconfig
 .idea
