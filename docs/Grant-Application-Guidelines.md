@@ -69,4 +69,4 @@ When you submit an application, you are considered the applicant or Grant Lead. 
 
 ### Continue to:
 ---
-[Deliverable Delivery Guidelines](Deliverable-Delivery-Guidelines)
+[Deliverable Guidelines](Deliverable-Guidelines)

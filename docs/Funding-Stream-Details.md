@@ -160,4 +160,4 @@ https://clarity-lang.org/universe
 
 ### Continue to:
 ---
-[Grant Application Guidelines](Grant-Aplication-Guidelines)
+[Grant Application Guidelines](Grant-Application-Guidelines)

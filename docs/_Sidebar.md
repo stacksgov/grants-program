@@ -2,7 +2,7 @@
 - [Grant Process and Payments](Grant-Process-and-Payments)
 - [Funding Stream Details](Funding-Stream-Details)
 - [Grant Application Guidelines](Grant-Application-Guidelines)
-- [Deliverable Delivery Guidelines](Deliverable-Delivery-Guidelines)
+- [Deliverable Guidelines](Deliverable-Guidelines)
 - [Grants Terms and Conditions](Terms-and-Conditions)
 - [Frequently Asked Questions](Frequently-Asked-Questions)
 - [Awarded Grants by Cohort](Awarded-Grants-by-Cohort)
