@@ -298,4 +298,4 @@ You may apply for a new grant for a separate project immediately upon completion
 
 ### Continue to:<!-- omit in toc -->
 ---
-[Discussion Section](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions)
+[Awarded Grants by Cohort](Awarded-Grants-by-Cohort)

@@ -37,19 +37,21 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 ## Current Grant Priorities
 
-Until the end of Q3 2023, the Stacks Foundation Grants Program will be prioritizing grants with the following areas of focus:
-1. New and novel technologies that leverages the Stacks 2.1 upgrade (learn more [here](https://stacks.org/stacks-21-what-to-expect) and [here](https://stacks.org/21-stacking-improvements)).
-2. New and novel technologies that strengthens the connection between Stacks and Bitcoin (learn more [here](https://stacks.org/stacks-21-what-to-expect)).
-3. Technology and/or resources that attracts **developers** to and supports developers within the Stacks Ecosystem.
-4. Technology and/or resources that attracts **founders** to and supports founders within the Stacks Ecosystem.
+>Until the end of Q2 2023, the Stacks Foundation Grants Program will be prioritizing grants with the following areas of focus:
+
+| PRIORITY #             | DESCRIPTION                                                        
+| :----------------------------: | :---------------------------------- 
+| 1. | New and novel technologies that leverages the Stacks 2.1 upgrade (learn more [here](https://stacks.org/stacks-21-what-to-expect) and [here](https://stacks.org/21-stacking-improvements)).
+| 2. | New and novel technologies that strengthens the connection between Stacks and Bitcoin (learn more [here](https://stacks.org/stacks-21-what-to-expect)).
+| 3. | New and novel technologies and/or resources that attracts **developers** to and supports developers within the Stacks Ecosystem.
+| 4. | New and novel technologies and/or resources that attracts **founders** to and supports founders within the Stacks Ecosystem.
+|
 
 </br>
 
-
-
 ## Grant Review Committee
 
-Each cohort of awarded grants is selected by the **Grant Review Committee** (GRC). The GRC meets for ~2 weeks each cohort immediately following the close of applications.  
+Grants are awarded in cohorts.  You can learn more about how cohorts work [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Grant-Process-and-Payments#application-review-phase-schedule). Each cohort of awarded grants is selected by the **Grant Review Committee** (GRC). The GRC meets for ~2 weeks each cohort immediately following the close of applications.  
 - Prior to convening the GRC, the Stacks Foundation staff pre-reviews all applications and tiers them in terms of priority based on the [current grant priorities](#current-grant-priorities). 
 - Low Priority and Medium Priority applications are typically by the Foundation staff so that the GRC only allocates time to High Priority and Highest Priority applications.
 - GRC members are assigned 4-6 to the remaining applications each and review them over the course of ~2 weeks. The assessment the GRC review applications against can be found [here](#grant-review-assessment)
@@ -104,8 +106,57 @@ The assessment consists of the following questions. Each question is scored from
 | *Execution* | The project's success will not be encumbered by technology or market dependencies.
 | *Security* | The project will not create or expose any foreseeable security vulnerabilities.
 
-
 </br>
+
+## Summary, Awarded by Cohort
+---
+>You can find a detailed list of each grant awarded (by cohort) [here]().
+
+| YEAR | QUARTER | COHORT | APPLICATION DATES | TOTAL AWARDED | # GRANTS | $/GRANT                                                     
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:
+| **2022** | Q4 | C-19 | 10/01/22 - 11/14/22 | TBD | TBD | TBD
+| - | Q3 | C-18 | 08/15/22 - 09/30/22 | $421,500 | 13 Grants | $32,423
+| - | -| C-17 | 07/01/22 - 08/14/22 | $413,040 | 15 Grants | $27,536
+| - | Q2 | C-16 | 05/15/22 - 06/30/22 | $843,450 | 23 Grants | $36,672
+| - | -| C-15 | 04/01/22 - 05/14/22 | $631,001 | 23 Grants | $27,435
+| - | Q1 | C-14 | 02/15/22 - 03/31/22 | $532,600 | 12 Grants | $44,383
+| - | -| C-13 | 01/01/22 - 02/14/22 | $572,600 | 19 Grants | $30,137
+| **2021** | Q4 | C-12 | 11/15/21 - 12/31/22 | $79,500 | 6 Grants | $13,250
+| - | - | C-11 | 10/01/21 - 11/14/21 | $13,700 | 2 Grants | $6,850
+| - | Q3 | C-10 | 08/15/21 - 09/30/21 | $83,500 | 6 Grants | $13,917
+| - | - | C-09 | 07/01/21 - 08/14/21 | $152,000 | 5 Grants | $30,400
+| - | Q2 | C-08 | 05/15/21 - 06/30/21 | $140,630 | 10 Grants | $14,063
+| - | - | C-07 | 04/01/21 - 05/14/21 | $192,844 | 8 Grants | $24,106
+| - | Q1 | C-06 | 02/15/21 - 03/31/21 | $127,658 | 8 Grants | $15,957
+| - | - | C-05 | 01/01/21 - 02/14/21 | $9,090 | 2 Grants | $4,545
+| **2020**| Q4 | C-04 | 11/15/20 - 12/31/20 | $20,360 | 6 Grants | $3,393
+| - | - | C-03 | 10/01/20 - 11/14/20 | $16,700 | 5 Grants | $3,340
+| - | Q3 | C-02 | 08/15/20 - 09/30/20 | $5,000 | 1 Grants | $5,000
+| - | - | C-01 | 07/01/20 - 08/14/20 | $30,000 | 6 Grants | $5,000
+|
+
+<br/>
+
+## Summary, Awarded by Grant Track
+---
+
+We ask that applicants categorize their application by one of the eight **grant tracks** or areas of interest below.  This helps us better understand where funding should be directed. 
+
+>You can find a detailed list of each grant awarded (by grant track) [here]().
+
+| SYMBOL | NAME | DESCRIPTION | TOTAL AWARDED | # GRANTS | $/GRANT                                                      
+| :---: | :--- | :--- | :---: | :---: | :---:
+| SP | Stacks Protocol | Blockchain/Subnet Studies, SIPs, Nodes, Mining, etc | $8,000 | 4 Grants | $8,250
+| SX | Stacks Interface | APIs, Indexers, DID, Wallets, Explorers, etc. | $1,119,208 | 36 Grants | $31,089
+| SA | Stacks dApps & Clarity | Clarity Improvements, Smart Contract Templates, dApps, etc.| $919,584 | 66 Grants | $13,933
+| DX | Developer Experience | Tooling, SDKs, Libraries, Faucets, Sandboxes, etc. | $497,900 | 18 Grants | $27,661
+| UX | User Experience | UX/UI Research, Prototypes, Component Libraries, etc | $108,400 | 3 Grants | $36,133
+| XO | Cross-Chain & Off-Chain | Decentralized Storage, Oracles & Bridges, etc. | $130,100 | 4 Grants | $32,525
+| BTC | Bitcoin Utility via Stacks | DLC-Clarity, BTC-Native DeFi (using Stacks), etc. | $395,500 | 6 Grants | $65,917
+|E&C | Education & Community | Documentation, Tutorials, Governance, Education, etc. | $506,341 | 33 Grants | $15,344
+|
+
+<br/>
 
 ## Additional Resources
 - Research and review all previously submitted application: [Grant Applications](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues)

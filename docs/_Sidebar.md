@@ -6,3 +6,5 @@
 - [Awarded Grants](Awarded-Grants)
 - [Grants Terms and Conditions](Terms-and-Conditions)
 - [Frequently Asked Questions](Frequently-Asked-Questions)
+- [Awarded Grants by Cohort](Awarded-Grants-by-Cohort)
+- [Awarded Grants by Grant Track](Awarded-Grants-by-Grant-Track)
