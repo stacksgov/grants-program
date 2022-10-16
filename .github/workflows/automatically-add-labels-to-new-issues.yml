@@ -23,16 +23,15 @@ jobs:
 #      From 9/12 until 11/7 set label cohort 19-20
       - name: Set Cohort labeling
         uses: andymckay/labeler@master
-        if: ${{ (steps.date.outputs.date >= "2022-09-12") && (steps.date.outputs.date < "2022-11-07") }} 
+        if: "${{ steps.date.outputs.date >= '2022-09-12' }}"
         with:
           add-labels: "Grant Cohort: 19-20"
           repo-token: "${{ secrets.GH_TOKEN }}"
 
 #     From 11/7 until 1/6 set label cohort 21
-      - name: Set Cohort labeling
-        uses: andymckay/labeler@master
-        if: ${{ (steps.date.outputs.date >= "2022-11-07") && (steps.date.outputs.date < "2023-01-06") }}
-        with:
-          add-labels: "Grant Cohort: 21"
-          repo-token: "${{ secrets.GH_TOKEN }}"
-
+#      - name: Set Cohort labeling
+#        uses: andymckay/labeler@master
+#        if: ${{ (steps.date.outputs.date >= "2022-11-07") && (steps.date.outputs.date < "2023-01-06") }}
+#        with:
+#          add-labels: "Grant Cohort: 21"
+#          repo-token: "${{ secrets.GH_TOKEN }}"

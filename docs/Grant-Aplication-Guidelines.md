@@ -1,11 +1,11 @@
 >PAGE UPDATED OCTOBER 2022
 
-<br/>
+</br>
 
 ## Grant Application Considerations
 Please note the following:
 - All code produced as part of a grant funded by the Stacks Foundation must be **open-sourced**, and it must also not rely on closed-source software for full functionality. **We prefer [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), but [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html[), [MIT](https://mit-license.org/) or Unlicensed are also acceptable.**
-- Individuals and teams must finish one grant before applying for another one.
+- Individuals and teams are only able to have one form of Stacks Foundation-funded financial support (grants, etc) active at any one time.
 - Only repeat grantees are allowed to apply for grants over $25k.
 - Applicants must be 18 years of age or older.
 - Lastly, we do not fund grants that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
