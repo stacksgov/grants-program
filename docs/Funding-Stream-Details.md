@@ -1,27 +1,38 @@
-## Grant Types <!-- omit in toc -->
 
-| FUNDING STREAMS              | GRANT TYPE                        | MAX $      |                                         DETAILS |
-| ---------------------------- | :---------------------------------- | :--------- | ----------------------------------------------: |
+>PAGE UPDATED OCTOBER 2022
+
+
+## All Funding Streams
+---
+
+<br/>
+
+| FUNDING STREAMS              | GRANT TYPE                        | MAX $      |                                         DETAILS 
+| ---------------------------- | :---------------------------------- | :--------- | ----------------------------------------------: 
 | **Developer Grants**         |                                     |
-|                              | Open Source Dev, First-time Grant          | ($0-25k)   |           [details](#open-source-dev-first-time-grant) |
-|                              | Open Source Dev, Repeat / Follow-up Grant         | ($25-250k) |           [details](#open-source-dev-repeat-grant) |
+|                              | Open Source Dev, First-time Grant          | ($0-25k)   |           [details](#open-source-dev-first-time-grant) 
+|                              | Open Source Dev, Repeat Grant         | ($25-250k) |           [details](#open-source-dev-repeat-grant) 
 | **Community Grants**         |                                     |            |
-|                              | Stacks Community Builder Grant      | ($0-10k)   |      [details](#stacks-community-builder-grant) |
-|                              | Stacks Education Grant              | ($0-10k)   |              [details](#stacks-education-grant) |
-|                              | Stacks Event Grant                  | ($0-10k)   |                  [details](#stacks-event-grant) |
-|                              | Stacks Chapter Grant (by Region)    | (Varies)   |      [details](#stacks-chapter-grant-by-region) |
+|                              | Stacks Community Builder Grant      | ($0-10k)   |      [details](#stacks-community-builder-grant) 
+|                              | Stacks Education Grant              | ($0-10k)   |              [details](#stacks-education-grant) 
+|                              | Stacks Event Grant                  | ($0-10k)   |                  [details](#stacks-event-grant) 
+|                              | Stacks Chapter Grant (by Region)    | (Varies)   |      [details](#stacks-chapter-grant-by-region) 
 | **Wishlist Grants**          |                                     |            |
-|                              | Wishlist Grants                     | (Varies)   |                     [details](#wishlist-grants) |
+|                              | Wishlist Grants                     | (Varies)   |                     [details](#wishlist-grants) 
 | **Advanced Support**         |                                     |            |
-|                              | Stacks Foundation Resident Program  | (Varies)   |  [details](#stacks-foundation-resident-program) |
+|                              | Stacks Foundation Resident Program  | (Varies)   |  [details](#stacks-foundation-resident-program) 
+|                              | Stacks Foundation Direct Investment | (Varies)   | [details](#stacks-foundation-direct-investment) 
 | **Ecosystem Partner Grants** |                                     |            |
-|                              | ALEX Lab Foundation Grant                   | (Varies)   |                     [details](#alex-lab-foundation-grant) |
+|                              | ALEX Lab Foundation Grant                   | (Varies)   |                     [details](#alex-lab-foundation-grant) 
 | **Affiliated Organizations** |                                     |            |
-|                              | Stacks Web3 Startup Lab             | (Varies)   |             [details](#stacks-web3-startup-lab) |
-|                              | Stacks Accelerator                  | (Varies)   |                  [details](#stacks-accelerator) |
-|                              | The Mintery             | (Varies)   |             [details](#the-mintery) |
-|                              | Bitcoin Odyssey                  | (Varies)   |                  [details](#the-bitcoin-odyssey) |
+|                              | Stacks Web3 Startup Lab             | (Varies)   |             [details](#stacks-web3-startup-lab) 
+|                              | Stacks Accelerator                  | (Varies)   |                  [details](#stacks-accelerator) 
+|                              | The Mintery             | (Varies)   |             [details](#the-mintery) 
+|                              | Bitcoin Odyssey                  | (Varies)   |                  [details](#the-bitcoin-odyssey) 
 |                              |                                     |
+
+
+</br>
 
 ## Developer Grants
 ---
@@ -30,13 +41,13 @@
 
 ### Open Source Dev, First-time Grant
 
-If this is your first grant with the Stacks Foundation and your project is software or research driven, you must complete a First-time Grant grant before applying for any funding exceeding $25k.  All applications must focus on new and novel, high-impact technology that strengthens the Stacks network.  Funding available from $0 to $25k.
+This is the best place for developers new to the Stacks Foundation grant process to begin their journey.  Funding for new and novel, technology-rich grants available from $0 to $25k.
 
 </br>
 
 ### Open Source Dev, Repeat / Follow-up Grant
 
-Only once you have an Open Source Dev, First-time Grant under your belt are you able to apply for an Open Source Dev, Repeat / Follow-up Grant.  Having a relationship with a developer, a team, and/or a project provides opportunities for increased funding.  Grants available from $25k to $250k.
+Having an established and proven relationship with a developer, a team, and/or a project provides opportunities for increased funding. Once you successfully complete an Open Source Dev, First-time Grant, you are eligible to apply for an Open Source Dev, Repeat Grant. Grants available from $25k to $250k.
 
 </br>
 
@@ -47,7 +58,7 @@ Only once you have an Open Source Dev, First-time Grant under your belt are you 
 
 ### Stacks Community Builder Grant
 
-This is a great place for individuals or teams looking to champion community building efforts to start.  Funding available from $0 to $10k.
+This is a great place for individuals or teams looking to champion community building efforts to start.  Funding available for all *non-technical* grant projects from $0 to $10k.
 
 </br>
 
@@ -73,12 +84,13 @@ The Chapters Program supports community leaders around the world in onboarding m
 ---
 
 <i>Wishlist Grants are a set of ideas put forth by the community to be listed as a sort of bounty grant for teams to apply for and build out for the community.  We (the Stacks Foundation) consider Wishlist Grants to be a top priority and hope to have 50% of all grants awarded be for high-impact, community-suggested Wishlist Grants within the next 6 months.</i>
-- ### Available Wishlist Grants Coming Soon!
+
+- ### List of Available Wishlist Grants Coming Soon
 
 - ### Wishlist Idea Submission Process
   >You can submit ideas for the Wishlist that the community can then discuss. A submission for an idea doesn't need to be a fully fledged concept to be posted. </br>
   [Submit Ideas Here](https://grants.stacks.org/)</br>
-  [Join the conversation](https://github.com/stacksgov/Stacks-Grants-Launchpad/discussions/categories/ideas)
+  [Join the conversation](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/wishlist-ideas)
 
 </br>
 
@@ -98,56 +110,54 @@ The Residance program aims to create opportunities for leaders and teams to cont
 
 </br>
 
-## ALEX Lab Foundation Grant
+### ALEX Lab Foundation Grant
 Interested in building on ALEX?  Apply for a grant through the first (of potentially many) Ecosystem Partner Grants.  All of the specifics are being worked out, but once we have a collection of applications to review, we (the Stacks Foundation) and the ALEX Lab Foundation will be able to quickly work together to figure out all of the specifics. 
 
 Once the process has been fine tuned, we hope to offer a similar arrangement to other partner organizations from within the Stacks Ecosystem.</br>
 
 </br>
 
-# Affiliated Organizations
+## Affiliated Organizations
 
-## The Stacks Startup Lab
+</br>
+
+### The Stacks Startup Lab
 Jumpstart you Web3 Future. Fast!</br>
 A 2-month step-by-step bootcamps for startups with 1 on 1 mentorship - offering founders everything they need to build a team and a solid Web3 startup fast!</br>
 https://web3startuplab.io/
 
 ---
 
-## [Stacks Ventures](https://stacksventures.io/)
+### [Stacks Ventures](https://stacksventures.io/)
 - ### <u>Stacks Web3 Startup Lab</u>
    A 2-month step-by-step bootcamp for startups with 1 on 1 mentorship offering everything founders need to build their team and a solid Web3 startup core to get fast tracked to Stacks Ventures for growth and raising funds.</br>
   https://www.web3startuplab.io
 
-- ### <u>Stacks Accelerator</u>
+- #### <u>Stacks Accelerator</u>
    3-month mentorship-driven program for teams building the internet of our future.</br>
 Modeled after the most effective global programs and built by accelerator veterans, the Stacks Accelerator will bring you exactly what you need, when you need it.</br>
 https://stacks.ac
 
 ---
-## The Mintery
+### The Mintery
  The Mintery is a place for creatives.</br>
 A mentorship-driven program helping creators launch successful Bitcoin-secured NFTs.</br>
 The Mintery takes what they've learned to help creators get what they deserve, starting with a 30-day NFT-focused program. Enter and succeed in a new economy, the metaverse, where you are fairly rewarded and always in charge.</br>
 https://mintery.co
 
 ---
-## The Bitcoin Odyssey
+### The Bitcoin Odyssey
  Bitcoin, supercharged.</br>
 From DeFi to DAOs, Stacks helps Bitcoin stay at the center of crypto innovation—giving entrepreneurs building on Stacks an edge. The program connects projects with Tier 1 venture capital teams to help mentor, recruit, fundraise, scale, and take new projects to market.</br>
 https://www.okcoin.com/bitcoinodyssey
 
 ---
-## Clarity Universe
+### Clarity Universe
 Clarity Universe is the hub for all things related to learning Clarity, the most expressive and secure language for writing smart contracts secured by Bitcoin.</br> Find courses, key resources, and job opportunities.</br>
 https://clarity-lang.org/universe
 
 </br>
 
-<<<<<<< Updated upstream:docs/Funding-Stream-Details.md
-Continue to [Frequently Asked Questsions](Frequently-Asked-Questsions)
-=======
-### Continue to:<!-- omit in toc -->
+### Continue to:
 ---
-[Grant Application Guidelines](03-Grant-Application-Guidelines)
->>>>>>> Stashed changes:docs/02-Funding-Stream-Details.md
+[Grant Application Guidelines](Grant-Aplication-Guidelines)

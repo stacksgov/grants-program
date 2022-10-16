@@ -1,0 +1,30 @@
+# generic ignores
+*.backup
+*.debug
+#*.json
+*.save
+crash.log
+*.retry
+*.so
+*.log
+*.swp
+*.DS_Store
+*.pyc
+.gitconfig
+.idea
+
+# Vim-related files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Vscode-specific files
+.vscode/
+
+*.secret
+*.save
+.DS_Store
+docs/.DS_Store
+docs/assets/.DS_Store
