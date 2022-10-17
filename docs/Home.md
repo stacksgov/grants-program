@@ -145,7 +145,7 @@ We ask that applicants categorize their application by one of the eight **grant 
 
 | SYMBOL | NAME | DESCRIPTION | TOTAL AWARDED | # GRANTS | $/GRANT                                                      
 | :---: | :--- | :--- | :---: | :---: | :---:
-| SP | Stacks Protocol | Blockchain/Subnet Studies, SIPs, Nodes, Mining, etc | $8,000 | 4 Grants | $8,250
+| SP | Stacks Protocol | Blockchain/Subnet Studies, SIPs, Nodes, Mining, etc | $33,000 | 4 Grants | $8,250
 | SX | Stacks Interface | APIs, Indexers, DID, Wallets, Explorers, etc. | $1,119,208 | 36 Grants | $31,089
 | SA | Stacks dApps & Clarity | Clarity Improvements, Smart Contract Templates, dApps, etc.| $919,584 | 66 Grants | $13,933
 | DX | Developer Experience | Tooling, SDKs, Libraries, Faucets, Sandboxes, etc. | $497,900 | 18 Grants | $27,661
