@@ -13,7 +13,7 @@
 
 ## Introduction
 
-As part of our commitment to promoting a user-owned internet, The Stacks Open Internet Foundation (aka Stacks Foundation) provides support for developers, designers, community leaders, and more through various types of grants.  Grant Types are organized by Funding Streams.  Grant Types consist of milestone-driven grants, community-support grants, residencies for subject matter experts, and various other forms of support.  While grants funded through our programs are broad in scope, the core mission of the Stacks Foundation is to fund software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf).  We prioritize funding strong **technical** projects that add _immediate and widespread value_ to the Stacks ecosystem. Anyone is welcome to submit a project application.
+As part of our commitment to promoting a user-owned internet, The Stacks Open Internet Foundation (aka Stacks Foundation) provides support for developers, designers, community leaders, and more through various types of grants.  Grant Types are organized by Funding Streams.  Grant Types consist of milestone-driven grants, community-support grants, residencies of subject matter experts, and various other forms of support.  While grants funded through our programs are broad in scope, the core mission of the Stacks Foundation is to fund software development and research efforts related to [Stacks](https://stacks.co) and [Bitcoin](https://bitcoin.org/bitcoin.pdf).  We prioritize funding strong **technical** projects that add _immediate and widespread value_ to the Stacks ecosystem. Anyone is welcome to submit a project application.
 
 </br>
 
@@ -39,13 +39,13 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 >Until the end of Q2 2023, the Stacks Foundation Grants Program will be prioritizing grants with the following areas of focus:
 
-| PRIORITY #             | DESCRIPTION                                                        
+| PRIORITY            | DESCRIPTION                                                        
 | :----------------------------: | :---------------------------------- 
-| 1. | New and novel technologies that leverages the Stacks 2.1 upgrade (learn more [here](https://stacks.org/stacks-21-what-to-expect) and [here](https://stacks.org/21-stacking-improvements)).
-| 2. | New and novel technologies that strengthens the connection between Stacks and Bitcoin (learn more [here](https://stacks.org/stacks-21-what-to-expect)).
+| 1. | New and novel technologies that leverages the Stacks 2.1 upgrade and subnets (learn more [here](https://stacks.org/stacks-21-what-to-expect) and [here](https://stacks.org/ecosystem-offsite-2022)).
+| 2. | New and novel technologies that strengthens the connection between Stacks and Bitcoin (learn more [here](https://github.com/stacks-network/stacks/discussions/469)).
 | 3. | New and novel technologies and/or resources that attracts **developers** to and supports developers within the Stacks Ecosystem.
 | 4. | New and novel technologies and/or resources that attracts **founders** to and supports founders within the Stacks Ecosystem.
-|
+
 
 </br>
 
@@ -74,7 +74,7 @@ Grants are awarded in cohorts.  You can learn more about how cohorts work [here]
 | Thomas Osmonson | Fungible Systems
 | Sullivan Whitely | Hiro Systems
 | Tycho Onnasch | Trust Machines / Zest
-|
+
 
 >If you are interested in joining the Grant Review Committee, the best way to show your interest and highlight your critical thinking skills is to comment on open applications [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues).
 
@@ -110,7 +110,7 @@ The assessment consists of the following questions. Each question is scored from
 
 ## Summary, Awarded by Cohort
 ---
->You can find a detailed list of each grant awarded (by cohort) [here]().
+>You can find a detailed list of each grant awarded (by cohort) [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Awarded-Grants-by-Cohort).
 
 | YEAR | QUARTER | COHORT | APPLICATION DATES | TOTAL AWARDED | # GRANTS | $/GRANT                                                     
 | :---: | :---: | :---: | :---: | :---: | :---: | :---:
@@ -133,7 +133,6 @@ The assessment consists of the following questions. Each question is scored from
 | - | - | C-03 | 10/01/20 - 11/14/20 | $16,700 | 5 Grants | $3,340
 | - | Q3 | C-02 | 08/15/20 - 09/30/20 | $5,000 | 1 Grants | $5,000
 | - | - | C-01 | 07/01/20 - 08/14/20 | $30,000 | 6 Grants | $5,000
-|
 
 <br/>
 
@@ -142,7 +141,7 @@ The assessment consists of the following questions. Each question is scored from
 
 We ask that applicants categorize their application by one of the eight **grant tracks** or areas of interest below.  This helps us better understand where funding should be directed. 
 
->You can find a detailed list of each grant awarded (by grant track) [here]().
+>You can find a detailed list of each grant awarded (by grant track) [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Awarded-Grants-by-Cohort).
 
 | SYMBOL | NAME | DESCRIPTION | TOTAL AWARDED | # GRANTS | $/GRANT                                                      
 | :---: | :--- | :--- | :---: | :---: | :---:
@@ -153,8 +152,7 @@ We ask that applicants categorize their application by one of the eight **grant 
 | UX | User Experience | UX/UI Research, Prototypes, Component Libraries, etc | $108,400 | 3 Grants | $36,133
 | XO | Cross-Chain & Off-Chain | Decentralized Storage, Oracles & Bridges, etc. | $130,100 | 4 Grants | $32,525
 | BTC | Bitcoin Utility via Stacks | DLC-Clarity, BTC-Native DeFi (using Stacks), etc. | $395,500 | 6 Grants | $65,917
-|E&C | Education & Community | Documentation, Tutorials, Governance, Education, etc. | $506,341 | 33 Grants | $15,344
-|
+| E&C | Education & Community | Documentation, Tutorials, Governance, Education, etc. | $506,341 | 33 Grants | $15,344
 
 <br/>
 

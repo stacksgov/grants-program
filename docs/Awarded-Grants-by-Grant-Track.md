@@ -8,7 +8,7 @@
 
 | SYMBOL | NAME | DESCRIPTION | TOTAL AWARDED | # GRANTS | $/GRANT                                                      
 | :---: | :--- | :--- | :---: | :---: | :---:
-| SP | [Stacks Protocol](#grants-awarded-for-stacks-protocol) | Blockchain/Subnet Studies, SIPs, Nodes, Mining, etc | $8,000 | 4 Grants | $8,250
+| SP | [Stacks Protocol](#grants-awarded-for-stacks-protocol) | Blockchain/Subnet Studies, SIPs, Nodes, Mining, etc | $33,000 | 4 Grants | $8,250
 | SX | [Stacks Interface](#grants-awarded-for-stacks-interface) | APIs, Indexers, DID, Wallets, Explorers, etc. | $1,119,208 | 36 Grants | $31,089
 | SA | [Stacks dApps & Clarity](#grants-awarded-for-stacks-dapps--clarity) | Clarity Improvements, Smart Contract Templates, dApps, etc.| $919,584 | 66 Grants | $13,933
 | DX | [Developer Experience](#grants-awarded-for-developer-experience) | Tooling, SDKs, Libraries, Faucets, Sandboxes, etc. | $497,900 | 18 Grants | $27,661
@@ -16,7 +16,6 @@
 | XO | [Cross-Chain & Off-Chain](#grants-awarded-for-cross-chain--off-chain) | Decentralized Storage, Oracles & Bridges, etc. | $130,100 | 4 Grants | $32,525
 | BTC | [Bitcoin Utility via Stacks](#grants-awarded-for-bitcoin-utility-via-stacks) | DLC-Clarity, BTC-Native DeFi (using Stacks), etc. | $395,500 | 6 Grants | $65,917
 |E&C | [Education & Community](#grants-awarded-for-education--community) | Documentation, Tutorials, Governance, Education, etc. | $506,341 | 33 Grants | $15,344
-|
 
 </br>
 
@@ -96,10 +95,10 @@
 | C-17 	| [Wilson Bright Ӿ](https://github.com/wilsonbright) 	| [Ballot - A decentralized polling app]() |	$25,000	| - |
 | C-16 	| [kcvmeow](https://github.com/kcvmeow) 	| [KCV Market for CityCoins](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues/567) |	$10,000	| - |
 | C-16 	| [JN](-) 	| [3D RoomSpace]() |	$25,000	| - |
-| C-16 	| [Kevin | ChiFiBots](-) 	| [Play & Earn Game on Stacks]() |	$30,000	| - |
+| C-16 	| [Kevin ChiFiBots](-) 	| [Play & Earn Game on Stacks]() |	$30,000	| - |
 | C-16 	| [martindoc](-) 	| [Learn to Earn Platform]() |	$25,000	| - |
 | C-16 	| [coryaustin](https://github.com/CoryBradburn) 	| [Music NFTs]() |	$5,000	| - |
-| C-16 	| [Terje | njordhov](https://github.com/njordhov) 	| [Clarity Sequence Library]() |	$10,000	| - |
+| C-16 	| [Terje njordhov](https://github.com/njordhov) 	| [Clarity Sequence Library]() |	$10,000	| - |
 | C-16 	| [RagnarLifthrasir](https://github.com/RagnarLifthrasir) 	| [TRAJAN]() |	$50,000	| - |
 | C-15 	| [fanjum11](https://github.com/fanjum11) 	| [Decentralized learning platform on Stacks](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues/325) |	$25,000	| - |
 | C-15 	| [Alisammour](https://github.com/Alisammour) 	| [NFT Fractionalizer](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues/570) |	$50,000	| - |
@@ -163,7 +162,7 @@
 | C-18 	| [yknl ](https://github.com/yknl) 	| [Stacks WalletConnect](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues/646) |	$17,500	| - |
 | C-17 	| [Julien](-) 	| [Stacks <> Elixir]() |	$13,000	| - |
 | C-17 	| [aulneau](https://github.com/aulneau) 	| [Continued micro-stacks development]() |	$25,000	| - |
-| C-17 	| [Terje | njordhov](https://github.com/njordhov) 	| [Clarity Linter & Formatter]() |	$25,000	| - |
+| C-17 	| [Terje njordhov](https://github.com/njordhov) 	| [Clarity Linter & Formatter]() |	$25,000	| - |
 | C-17 	| [akajkr](https://github.com/stxfrc) 	| [Stacks support for Unity mobile games]() |	$75,000	| - |
 | C-17 	| [yourmercury](https://github.com/yourmercury) 	| [Graphics User Interface (GUI) For Clarinet]() |	$55,400	| - |
 | C-16 	| [BowTiedDeployer](https://github.com/BowTiedDeployer) 	| [GameFi Research]() |	$125,000	| - |

@@ -23,11 +23,10 @@
 | - | - | [C-07](#grants-awarded-in-cohort-07) | 04/01/21 - 05/14/21 | $192,844 | 8 Grants | $24,106
 | - | Q1 | [C-06](#grants-awarded-in-cohort-06) | 02/15/21 - 03/31/21 | $127,658 | 8 Grants | $15,957
 | - | - | [C-05](#grants-awarded-in-cohort-05) | 01/01/21 - 02/14/21 | $9,090 | 2 Grants | $4,545
-| **2020**| [Q4](#grants-awarded-in-cohort-04) | C-04 | 11/15/20 - 12/31/20 | $20,360 | 6 Grants | $3,393
+| **2020**| Q4 | [C-04](#grants-awarded-in-cohort-04) | 11/15/20 - 12/31/20 | $20,360 | 6 Grants | $3,393
 | - | - | [C-03](#grants-awarded-in-cohort-03) | 10/01/20 - 11/14/20 | $16,700 | 5 Grants | $3,340
 | - | Q3 | [C-02](#grants-awarded-in-cohort-02) | 08/15/20 - 09/30/20 | $5,000 | 1 Grants | $5,000
 | - | - | [C-01](#grants-awarded-in-cohort-01) | 07/01/20 - 08/14/20 | $30,000 | 6 Grants | $5,000
-|
 
 </br>
 
