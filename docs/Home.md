@@ -17,7 +17,6 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 </br>
 
-
 <b>Visit the [Grant Process and Payments](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Grant-Process-and-Payments) in the Wiki for detailed information on the entire process.</b>
 
 <p align="center">
@@ -46,7 +45,6 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 | 3. | New and novel technologies and/or resources that attracts **developers** to and supports developers within the Stacks Ecosystem.
 | 4. | New and novel technologies and/or resources that attracts **founders** to and supports founders within the Stacks Ecosystem.
 
-
 </br>
 
 ## Grant Review Committee
@@ -74,7 +72,9 @@ Grants are awarded in cohorts.  You can learn more about how cohorts work [here]
 | Thomas Osmonson | Fungible Systems
 | Sullivan Whitely | Hiro Systems
 | Tycho Onnasch | Trust Machines / Zest
+| Marvin Janssen | Ryder / Clarity Innovation Lab
 
+</br>
 
 >If you are interested in joining the Grant Review Committee, the best way to show your interest and highlight your critical thinking skills is to comment on open applications [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues).
 
@@ -83,7 +83,6 @@ Grants are awarded in cohorts.  You can learn more about how cohorts work [here]
 ## Grant Review Assessment
 
 The assessment consists of the following questions. Each question is scored from 1 to 4. 1 = Strongly Disagree and 4 = Strongly Agree. Typically, applications that are awarded grants have an average score of 3.5 of higher.  Each question is followed by a field for feedback on that item and the assessment also includes a field for general feedback near the end.  The assessment concludes with a simple two option question: **approve** or **deny**.
-
 
 </br>
 
@@ -172,7 +171,6 @@ We ask that applicants categorize their application by one of the eight **grant 
 
 ## Stacks Community Channels
 
-
 | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/web.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/discord.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/twitter.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/blog.png?s=50" width="50"> |
 | :------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
 |              [Stacks.co](https://stacks.co)              |           [Discord](https://discord.gg/5usXsXSUAK)           |            [Twitter](https://twitter.com/Stacks)             |              [Blog](https://stacks.org/blog)              |
@@ -197,8 +195,6 @@ We ask that applicants categorize their application by one of the eight **grant 
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
 
 </br>
-
-
 
 ### Continue to:
 ---
