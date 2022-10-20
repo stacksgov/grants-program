@@ -10,7 +10,7 @@ jobs:
           issuesOpened: |
             👋 @{{ author }}
             </br>
-            Thanks for your application!  We will do a pre-review and let you know if we have any immediate questions.  In the mean time please refer to our review schedule [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Process#application-review-phase-schedule) for a detailed timeline and response dates.
+            Thanks for your application!  We will do a pre-review and let you know if we have any immediate questions.  In the mean time please refer to our review schedule [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/wiki/Grant-Process-and-Payments#application-review-phase-schedule) for a detailed timeline and response dates.
             </br>
             Best, 
             Will
