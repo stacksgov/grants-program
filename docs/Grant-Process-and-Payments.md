@@ -91,7 +91,6 @@ Please note:
 | $100k to $149,999 | 6 | 4 | 16.6% 
 | $150k to $250k | 8 | 6 | 12.5% 
 | Residents, Chapters | 12 | 10 | varies 
-|
 
 </br>
 

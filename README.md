@@ -61,18 +61,28 @@ Grants are awarded in cohorts.  You can learn more about how cohorts work [here]
 
 | MEMBER NAME             | ORGANIZATION                                                         
 | ---------------------------- | :---------------------------------- 
+| Aakanksha Mahajan | Whitelabel & Stacks Resident
 | Albert Liang | Stacks Web3 Startup Lab
-| Andrea Zaragoza Ballesteros | Stacks Ventures
+| Andrea Zaragoza Ballesteros | Stacks Ventures & Stacks Accelerator
+| Ciara Maria Proia | Whitelabel & Stacks Resident
 | Harold Davis | Stacks Governance Lab
 | Mohamed Huzayen | Stacks Governance Lab
-| Igor Sylvester | Trust Machines
+| Igor Sylvester | Blockchain Engineer, Trust Machines
+| Jamil Dhanani | Trust Machines & Gamma
+| Jenny Mith | Ecosystem Development Lead, Stacks Foundation 
 | Joshua Owen | Tradeport
-| Kyran Burraston | Hiro Systems
-| Rafael Cardenas | Hiro Systems
+| Kenny Rogers | Developer Advocate, Stacks Foundation
+| Kyran Burraston | Wallet Team, Hiro Systems
+| Louise Ivan | Ryder
+| Marvin Janssen | Ryder & Clarity Innovation Lab
+| Orlando Cosme | StackerDAOs
+| Rafael Cardenas | API Team, Hiro Systems
+| BowTiedSirJonathan | Stacks Degens
 | Thomas Osmonson | Fungible Systems
-| Sullivan Whitely | Hiro Systems
+| Trevor Owens | Stacks Ventures & Stacks Accelerator
 | Tycho Onnasch | Trust Machines / Zest
-| Marvin Janssen | Ryder / Clarity Innovation Lab
+| Ryan Waits |StackerDAOs
+
 
 </br>
 
