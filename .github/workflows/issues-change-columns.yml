@@ -6,6 +6,7 @@ on:
 jobs:
   label:
     runs-on: ubuntu-latest
+    if: ${{ false }}
     steps:
       - name: "Grantee Onboarding"
         uses: andymckay/labeler@master
