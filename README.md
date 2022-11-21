@@ -179,6 +179,12 @@ We ask that applicants categorize their application by one of the eight **grant 
 
 </br>
 
+## Note for 2022 Grantees regarding the previous Grants Dashboard:
+
+Please note, the previous Grants Dashboard (grantsdashboard.stacks.org) has been deprecated. If your grant application was submitted (and awarded) via grantsdashboard.stacks.org, but you have yet to finish your grant, please email grants at stacks dot org with the subject heading "2022 GRANTS DASHBOARD GRANT".  Please include a detailed description of your grant in your email.  Thank you.
+
+</br>
+
 ## Stacks Community Channels
 
 | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/web.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/discord.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/twitter.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/blog.png?s=50" width="50"> |
@@ -203,34 +209,6 @@ We ask that applicants categorize their application by one of the eight **grant 
   - [Stacks.org](https://stacks.org/)
   - [Stacks Foundation Blog](https://stacks.org/blog)
   - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-## Note for 2022 Grantees regarding the previous Grants Dashboard:
-
-Please note, the previous Grants Dashboard (grantsdashboard.stacks.org) has been deprecated. If your grant application was submitted (and awarded) via grantsdashboard.stacks.org, but you have yet to finish your grant, please email grants at stacks dot org with the subject heading "2022 GRANTS DASHBOARD GRANT".  Please include a detailed description of your grant in your email.  Thank you.
 
 </br>
 
