@@ -206,6 +206,10 @@ We ask that applicants categorize their application by one of the eight **grant 
 
 </br>
 
+## Note for some 2022 Grantees:
+
+If your grant application was submitted (and awarded) via grantsdashboard.stacks.org, but you have yet to finish your grant, please email grants at stacks dot org with the subject heading "2022 GRANT".  Please include a detailed description of your grant in your email.  Thank you.
+
 ### Continue to:
 ---
 [Grant Process and Payments](Grant-Process-and-Payments)
