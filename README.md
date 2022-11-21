@@ -206,9 +206,19 @@ We ask that applicants categorize their application by one of the eight **grant 
 
 </br>
 
-## Note for some 2022 Grantees:
+</br>
 
-If your grant application was submitted (and awarded) via grantsdashboard.stacks.org, but you have yet to finish your grant, please email grants at stacks dot org with the subject heading "2022 GRANT".  Please include a detailed description of your grant in your email.  Thank you.
+</br>
+
+</br>
+
+</br>
+
+## Note for 2022 Grantees regarding the previous Grants Dashboard:
+
+Please note, the previous Grants Dashboard (grantsdashboard.stacks.org) has been deprecated. If your grant application was submitted (and awarded) via grantsdashboard.stacks.org, but you have yet to finish your grant, please email grants at stacks dot org with the subject heading "2022 GRANTS DASHBOARD GRANT".  Please include a detailed description of your grant in your email.  Thank you.
+
+</br>
 
 ### Continue to:
 ---
