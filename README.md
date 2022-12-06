@@ -36,14 +36,12 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 ## Current Grant Priorities
 
->Until the end of Q2 2023, the Stacks Foundation Grants Program will be prioritizing grants with the following areas of focus:
+>Until the end of Q2 2023, the Stacks Foundation Grants Program will be prioritizing grants that align with critical priorities as identified by the community [here](https://stacks.org/2022-survey-results) and more specifically, aligned with the following areas of focus:
 
 | PRIORITY            | DESCRIPTION                                                        
 | :----------------------------: | :---------------------------------- 
 | 1. | New and novel technologies that leverages the Stacks 2.1 upgrade and subnets (learn more [here](https://stacks.org/stacks-21-what-to-expect) and [here](https://stacks.org/ecosystem-offsite-2022)).
 | 2. | New and novel technologies that strengthens the connection between Stacks and Bitcoin (learn more [here](https://github.com/stacks-network/stacks/discussions/469)).
-| 3. | New and novel technologies and/or resources that attracts **developers** to and supports developers within the Stacks Ecosystem.
-| 4. | New and novel technologies and/or resources that attracts **founders** to and supports founders within the Stacks Ecosystem.
 
 </br>
 
