@@ -13,6 +13,6 @@ All new grant application should be submitted via https://grants.stacks.org/.
 
 If you submit an application for a grant via this repo the application will not be review.
 
-If you have any comments, questions or concerns please visit the #grants channel on the Stacks Discord server or email ambassadors@stacks.org.
+If you have any comments, questions or concerns please visit the #grants channel on the Stacks Discord server or email grants@stacks.org.
 
 Thank you!
