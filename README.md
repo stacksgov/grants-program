@@ -66,7 +66,7 @@ Grants are awarded in cohorts.  You can learn more about how cohorts work [here]
 | Harold Davis | Stacks Governance Lab
 | Mohamed Huzayen | Stacks Governance Lab
 | Igor Sylvester | Blockchain Engineer, Trust Machines
-| Jamil Dhanani | Trust Machines & Gamma
+| Jamil Dhanani | Gamma
 | Jenny Mith | Ecosystem Development Lead, Stacks Foundation 
 | Joshua Owen | Tradeport
 | Kenny Rogers | Developer Advocate, Stacks Foundation
