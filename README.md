@@ -40,7 +40,7 @@ As part of our commitment to promoting a user-owned internet, The Stacks Open In
 
 | PRIORITY            | DESCRIPTION                                                        
 | :----------------------------: | :---------------------------------- 
-| 1. | Technologies that aide in the development / execution of sBTC (learn more [here](https://uploads-ssl.webflow.com/618b0aafa4afde65f2fe38fe/6399d5ca2dd2d3da0b1444d1_sbtc.pdf) and [here](https://uploads-ssl.webflow.com/618b0aafa4afde65f2fe38fe/6399d5ca541ccc6c51882bed_stacks.pdf).
+| 1. | Technologies that aide in the development / execution of sBTC (learn more [here](https://uploads-ssl.webflow.com/618b0aafa4afde65f2fe38fe/6399d5ca2dd2d3da0b1444d1_sbtc.pdf) and [here](https://uploads-ssl.webflow.com/618b0aafa4afde65f2fe38fe/6399d5ca541ccc6c51882bed_stacks.pdf)).
 | 2. | New and novel technologies that leverages the Stacks 2.1 upgrade and subnets (learn more [here](https://stacks.org/stacks-21-what-to-expect) and [here](https://stacks.org/ecosystem-offsite-2022)).
 
 
