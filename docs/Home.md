@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/header.png" style="width:1300px";>
+  <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/header-new.png" style="width:1300px";>
 </p>
 
 ---
