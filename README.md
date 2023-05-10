@@ -1,4 +1,4 @@
-# Stacks Grant Launchpad<!-- omit in toc -->
+# Critical Bounties & Grants<!-- omit in toc -->
 
 >PAGE UPDATED MAY 2023
 ---
