@@ -20,7 +20,6 @@ The Stacks Open Internet Foundation (also known as the Stacks Foundation) is com
 ## How To Apply
 
 1. Critical Bounties are typically posted once per quarter and applications remain open for about a month.
-- You can sign-up here if you would like to be notified when new Critical Bounties are made available.
 2. Active Critical Bounties can be found on the Foundation website [here](https://grants.stacks.org) or on the Grants Repo [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues).
 3. Once you’ve identified a Critical Bounty you would like to apply for,  follow the link within the GitHub Issue and fill out the linked form.
 4. After applications have closed and our review is complete, Critical Bounty recipients will be notified via the comment section below the GitHub Issue.
